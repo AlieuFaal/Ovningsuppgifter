@@ -1,0 +1,14 @@
+E:\Coding\Lectures\Övningsuppgifter\Indexering\6. Miniräknare\Miniräknare\bin\Debug\net8.0\Miniräknare.exe
+E:\Coding\Lectures\Övningsuppgifter\Indexering\6. Miniräknare\Miniräknare\bin\Debug\net8.0\Miniräknare.deps.json
+E:\Coding\Lectures\Övningsuppgifter\Indexering\6. Miniräknare\Miniräknare\bin\Debug\net8.0\Miniräknare.runtimeconfig.json
+E:\Coding\Lectures\Övningsuppgifter\Indexering\6. Miniräknare\Miniräknare\bin\Debug\net8.0\Miniräknare.dll
+E:\Coding\Lectures\Övningsuppgifter\Indexering\6. Miniräknare\Miniräknare\bin\Debug\net8.0\Miniräknare.pdb
+E:\Coding\Lectures\Övningsuppgifter\Indexering\6. Miniräknare\Miniräknare\obj\Debug\net8.0\Miniräknare.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Lectures\Övningsuppgifter\Indexering\6. Miniräknare\Miniräknare\obj\Debug\net8.0\Miniräknare.AssemblyInfoInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Indexering\6. Miniräknare\Miniräknare\obj\Debug\net8.0\Miniräknare.AssemblyInfo.cs
+E:\Coding\Lectures\Övningsuppgifter\Indexering\6. Miniräknare\Miniräknare\obj\Debug\net8.0\Miniräknare.csproj.CoreCompileInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Indexering\6. Miniräknare\Miniräknare\obj\Debug\net8.0\Miniräknare.dll
+E:\Coding\Lectures\Övningsuppgifter\Indexering\6. Miniräknare\Miniräknare\obj\Debug\net8.0\refint\Miniräknare.dll
+E:\Coding\Lectures\Övningsuppgifter\Indexering\6. Miniräknare\Miniräknare\obj\Debug\net8.0\Miniräknare.pdb
+E:\Coding\Lectures\Övningsuppgifter\Indexering\6. Miniräknare\Miniräknare\obj\Debug\net8.0\Miniräknare.genruntimeconfig.cache
+E:\Coding\Lectures\Övningsuppgifter\Indexering\6. Miniräknare\Miniräknare\obj\Debug\net8.0\ref\Miniräknare.dll

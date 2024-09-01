@@ -1,0 +1,14 @@
+E:\Coding\Lectures\Övningsuppgifter\Indexering\1. Bokstav på varje rad\BPVR\bin\Debug\net8.0\BPVR.exe
+E:\Coding\Lectures\Övningsuppgifter\Indexering\1. Bokstav på varje rad\BPVR\bin\Debug\net8.0\BPVR.deps.json
+E:\Coding\Lectures\Övningsuppgifter\Indexering\1. Bokstav på varje rad\BPVR\bin\Debug\net8.0\BPVR.runtimeconfig.json
+E:\Coding\Lectures\Övningsuppgifter\Indexering\1. Bokstav på varje rad\BPVR\bin\Debug\net8.0\BPVR.dll
+E:\Coding\Lectures\Övningsuppgifter\Indexering\1. Bokstav på varje rad\BPVR\bin\Debug\net8.0\BPVR.pdb
+E:\Coding\Lectures\Övningsuppgifter\Indexering\1. Bokstav på varje rad\BPVR\obj\Debug\net8.0\BPVR.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Lectures\Övningsuppgifter\Indexering\1. Bokstav på varje rad\BPVR\obj\Debug\net8.0\BPVR.AssemblyInfoInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Indexering\1. Bokstav på varje rad\BPVR\obj\Debug\net8.0\BPVR.AssemblyInfo.cs
+E:\Coding\Lectures\Övningsuppgifter\Indexering\1. Bokstav på varje rad\BPVR\obj\Debug\net8.0\BPVR.csproj.CoreCompileInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Indexering\1. Bokstav på varje rad\BPVR\obj\Debug\net8.0\BPVR.dll
+E:\Coding\Lectures\Övningsuppgifter\Indexering\1. Bokstav på varje rad\BPVR\obj\Debug\net8.0\refint\BPVR.dll
+E:\Coding\Lectures\Övningsuppgifter\Indexering\1. Bokstav på varje rad\BPVR\obj\Debug\net8.0\BPVR.pdb
+E:\Coding\Lectures\Övningsuppgifter\Indexering\1. Bokstav på varje rad\BPVR\obj\Debug\net8.0\BPVR.genruntimeconfig.cache
+E:\Coding\Lectures\Övningsuppgifter\Indexering\1. Bokstav på varje rad\BPVR\obj\Debug\net8.0\ref\BPVR.dll
