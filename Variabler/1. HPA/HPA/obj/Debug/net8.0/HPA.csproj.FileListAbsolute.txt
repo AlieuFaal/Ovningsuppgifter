@@ -1,0 +1,15 @@
+E:\Coding\Lectures\Övningsuppgifter\Variabler\1. HPA\HPA\bin\Debug\net8.0\HPA.exe
+E:\Coding\Lectures\Övningsuppgifter\Variabler\1. HPA\HPA\bin\Debug\net8.0\HPA.deps.json
+E:\Coding\Lectures\Övningsuppgifter\Variabler\1. HPA\HPA\bin\Debug\net8.0\HPA.runtimeconfig.json
+E:\Coding\Lectures\Övningsuppgifter\Variabler\1. HPA\HPA\bin\Debug\net8.0\HPA.dll
+E:\Coding\Lectures\Övningsuppgifter\Variabler\1. HPA\HPA\bin\Debug\net8.0\HPA.pdb
+E:\Coding\Lectures\Övningsuppgifter\Variabler\1. HPA\HPA\obj\Debug\net8.0\HPA.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Lectures\Övningsuppgifter\Variabler\1. HPA\HPA\obj\Debug\net8.0\HPA.AssemblyInfoInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Variabler\1. HPA\HPA\obj\Debug\net8.0\HPA.AssemblyInfo.cs
+E:\Coding\Lectures\Övningsuppgifter\Variabler\1. HPA\HPA\obj\Debug\net8.0\HPA.csproj.CoreCompileInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Variabler\1. HPA\HPA\obj\Debug\net8.0\HPA.sourcelink.json
+E:\Coding\Lectures\Övningsuppgifter\Variabler\1. HPA\HPA\obj\Debug\net8.0\HPA.dll
+E:\Coding\Lectures\Övningsuppgifter\Variabler\1. HPA\HPA\obj\Debug\net8.0\refint\HPA.dll
+E:\Coding\Lectures\Övningsuppgifter\Variabler\1. HPA\HPA\obj\Debug\net8.0\HPA.pdb
+E:\Coding\Lectures\Övningsuppgifter\Variabler\1. HPA\HPA\obj\Debug\net8.0\HPA.genruntimeconfig.cache
+E:\Coding\Lectures\Övningsuppgifter\Variabler\1. HPA\HPA\obj\Debug\net8.0\ref\HPA.dll

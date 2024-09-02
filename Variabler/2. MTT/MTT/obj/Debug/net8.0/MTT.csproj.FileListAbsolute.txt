@@ -1,0 +1,15 @@
+E:\Coding\Lectures\Övningsuppgifter\Variabler\2. MTT\MTT\bin\Debug\net8.0\MTT.exe
+E:\Coding\Lectures\Övningsuppgifter\Variabler\2. MTT\MTT\bin\Debug\net8.0\MTT.deps.json
+E:\Coding\Lectures\Övningsuppgifter\Variabler\2. MTT\MTT\bin\Debug\net8.0\MTT.runtimeconfig.json
+E:\Coding\Lectures\Övningsuppgifter\Variabler\2. MTT\MTT\bin\Debug\net8.0\MTT.dll
+E:\Coding\Lectures\Övningsuppgifter\Variabler\2. MTT\MTT\bin\Debug\net8.0\MTT.pdb
+E:\Coding\Lectures\Övningsuppgifter\Variabler\2. MTT\MTT\obj\Debug\net8.0\MTT.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Lectures\Övningsuppgifter\Variabler\2. MTT\MTT\obj\Debug\net8.0\MTT.AssemblyInfoInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Variabler\2. MTT\MTT\obj\Debug\net8.0\MTT.AssemblyInfo.cs
+E:\Coding\Lectures\Övningsuppgifter\Variabler\2. MTT\MTT\obj\Debug\net8.0\MTT.csproj.CoreCompileInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Variabler\2. MTT\MTT\obj\Debug\net8.0\MTT.sourcelink.json
+E:\Coding\Lectures\Övningsuppgifter\Variabler\2. MTT\MTT\obj\Debug\net8.0\MTT.dll
+E:\Coding\Lectures\Övningsuppgifter\Variabler\2. MTT\MTT\obj\Debug\net8.0\refint\MTT.dll
+E:\Coding\Lectures\Övningsuppgifter\Variabler\2. MTT\MTT\obj\Debug\net8.0\MTT.pdb
+E:\Coding\Lectures\Övningsuppgifter\Variabler\2. MTT\MTT\obj\Debug\net8.0\MTT.genruntimeconfig.cache
+E:\Coding\Lectures\Övningsuppgifter\Variabler\2. MTT\MTT\obj\Debug\net8.0\ref\MTT.dll
