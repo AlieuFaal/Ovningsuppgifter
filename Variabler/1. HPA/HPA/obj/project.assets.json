@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\alidj\\.nuget\\packages\\": {}
+    "/Users/alieufaal/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Coding\\Lectures\\Övningsuppgifter\\Variabler\\1. HPA\\HPA\\HPA.csproj",
+      "projectUniqueName": "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter-1/Variabler/1. HPA/HPA/HPA.csproj",
       "projectName": "HPA",
-      "projectPath": "E:\\Coding\\Lectures\\Övningsuppgifter\\Variabler\\1. HPA\\HPA\\HPA.csproj",
-      "packagesPath": "C:\\Users\\alidj\\.nuget\\packages\\",
-      "outputPath": "E:\\Coding\\Lectures\\Övningsuppgifter\\Variabler\\1. HPA\\HPA\\obj\\",
+      "projectPath": "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter-1/Variabler/1. HPA/HPA/HPA.csproj",
+      "packagesPath": "/Users/alieufaal/.nuget/packages/",
+      "outputPath": "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter-1/Variabler/1. HPA/HPA/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\alidj\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/alieufaal/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

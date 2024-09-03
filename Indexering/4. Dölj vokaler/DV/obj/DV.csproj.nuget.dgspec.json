@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Coding\\Lectures\\Övningsuppgifter\\Indexering\\4. Dölj vokaler\\DV\\DV.csproj": {}
+    "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter-1/Indexering/4. Dölj vokaler/DV/DV.csproj": {}
   },
   "projects": {
-    "E:\\Coding\\Lectures\\Övningsuppgifter\\Indexering\\4. Dölj vokaler\\DV\\DV.csproj": {
+    "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter-1/Indexering/4. Dölj vokaler/DV/DV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding\\Lectures\\Övningsuppgifter\\Indexering\\4. Dölj vokaler\\DV\\DV.csproj",
+        "projectUniqueName": "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter-1/Indexering/4. Dölj vokaler/DV/DV.csproj",
         "projectName": "DV",
-        "projectPath": "E:\\Coding\\Lectures\\Övningsuppgifter\\Indexering\\4. Dölj vokaler\\DV\\DV.csproj",
-        "packagesPath": "C:\\Users\\alidj\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding\\Lectures\\Övningsuppgifter\\Indexering\\4. Dölj vokaler\\DV\\obj\\",
+        "projectPath": "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter-1/Indexering/4. Dölj vokaler/DV/DV.csproj",
+        "packagesPath": "/Users/alieufaal/.nuget/packages/",
+        "outputPath": "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter-1/Indexering/4. Dölj vokaler/DV/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alidj\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/alieufaal/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

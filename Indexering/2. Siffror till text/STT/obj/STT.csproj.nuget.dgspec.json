@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Coding\\Lectures\\Övningsuppgifter\\Indexering\\2. Siffror till text\\STT\\STT.csproj": {}
+    "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter-1/Indexering/2. Siffror till text/STT/STT.csproj": {}
   },
   "projects": {
-    "E:\\Coding\\Lectures\\Övningsuppgifter\\Indexering\\2. Siffror till text\\STT\\STT.csproj": {
+    "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter-1/Indexering/2. Siffror till text/STT/STT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding\\Lectures\\Övningsuppgifter\\Indexering\\2. Siffror till text\\STT\\STT.csproj",
+        "projectUniqueName": "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter-1/Indexering/2. Siffror till text/STT/STT.csproj",
         "projectName": "STT",
-        "projectPath": "E:\\Coding\\Lectures\\Övningsuppgifter\\Indexering\\2. Siffror till text\\STT\\STT.csproj",
-        "packagesPath": "C:\\Users\\alidj\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding\\Lectures\\Övningsuppgifter\\Indexering\\2. Siffror till text\\STT\\obj\\",
+        "projectPath": "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter-1/Indexering/2. Siffror till text/STT/STT.csproj",
+        "packagesPath": "/Users/alieufaal/.nuget/packages/",
+        "outputPath": "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter-1/Indexering/2. Siffror till text/STT/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alidj\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/alieufaal/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
