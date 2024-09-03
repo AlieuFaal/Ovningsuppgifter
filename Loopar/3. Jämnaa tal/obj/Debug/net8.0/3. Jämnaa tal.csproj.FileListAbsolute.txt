@@ -1,0 +1,15 @@
+E:\Coding\Lectures\Övningsuppgifter\Loopar\3. Jämnaa tal\bin\Debug\net8.0\3. Jämnaa tal.exe
+E:\Coding\Lectures\Övningsuppgifter\Loopar\3. Jämnaa tal\bin\Debug\net8.0\3. Jämnaa tal.deps.json
+E:\Coding\Lectures\Övningsuppgifter\Loopar\3. Jämnaa tal\bin\Debug\net8.0\3. Jämnaa tal.runtimeconfig.json
+E:\Coding\Lectures\Övningsuppgifter\Loopar\3. Jämnaa tal\bin\Debug\net8.0\3. Jämnaa tal.dll
+E:\Coding\Lectures\Övningsuppgifter\Loopar\3. Jämnaa tal\bin\Debug\net8.0\3. Jämnaa tal.pdb
+E:\Coding\Lectures\Övningsuppgifter\Loopar\3. Jämnaa tal\obj\Debug\net8.0\3. Jämnaa tal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Lectures\Övningsuppgifter\Loopar\3. Jämnaa tal\obj\Debug\net8.0\3. Jämnaa tal.AssemblyInfoInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Loopar\3. Jämnaa tal\obj\Debug\net8.0\3. Jämnaa tal.AssemblyInfo.cs
+E:\Coding\Lectures\Övningsuppgifter\Loopar\3. Jämnaa tal\obj\Debug\net8.0\3. Jämnaa tal.csproj.CoreCompileInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Loopar\3. Jämnaa tal\obj\Debug\net8.0\3. Jämnaa tal.sourcelink.json
+E:\Coding\Lectures\Övningsuppgifter\Loopar\3. Jämnaa tal\obj\Debug\net8.0\3. Jämnaa tal.dll
+E:\Coding\Lectures\Övningsuppgifter\Loopar\3. Jämnaa tal\obj\Debug\net8.0\refint\3. Jämnaa tal.dll
+E:\Coding\Lectures\Övningsuppgifter\Loopar\3. Jämnaa tal\obj\Debug\net8.0\3. Jämnaa tal.pdb
+E:\Coding\Lectures\Övningsuppgifter\Loopar\3. Jämnaa tal\obj\Debug\net8.0\3. Jämnaa tal.genruntimeconfig.cache
+E:\Coding\Lectures\Övningsuppgifter\Loopar\3. Jämnaa tal\obj\Debug\net8.0\ref\3. Jämnaa tal.dll

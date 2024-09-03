@@ -1,0 +1,15 @@
+E:\Coding\Lectures\Övningsuppgifter\Variabler\4. Jämför tal\Jämför tal\bin\Debug\net8.0\Jämför tal.exe
+E:\Coding\Lectures\Övningsuppgifter\Variabler\4. Jämför tal\Jämför tal\bin\Debug\net8.0\Jämför tal.deps.json
+E:\Coding\Lectures\Övningsuppgifter\Variabler\4. Jämför tal\Jämför tal\bin\Debug\net8.0\Jämför tal.runtimeconfig.json
+E:\Coding\Lectures\Övningsuppgifter\Variabler\4. Jämför tal\Jämför tal\bin\Debug\net8.0\Jämför tal.dll
+E:\Coding\Lectures\Övningsuppgifter\Variabler\4. Jämför tal\Jämför tal\bin\Debug\net8.0\Jämför tal.pdb
+E:\Coding\Lectures\Övningsuppgifter\Variabler\4. Jämför tal\Jämför tal\obj\Debug\net8.0\Jämför tal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Lectures\Övningsuppgifter\Variabler\4. Jämför tal\Jämför tal\obj\Debug\net8.0\Jämför tal.AssemblyInfoInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Variabler\4. Jämför tal\Jämför tal\obj\Debug\net8.0\Jämför tal.AssemblyInfo.cs
+E:\Coding\Lectures\Övningsuppgifter\Variabler\4. Jämför tal\Jämför tal\obj\Debug\net8.0\Jämför tal.csproj.CoreCompileInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Variabler\4. Jämför tal\Jämför tal\obj\Debug\net8.0\Jämför tal.sourcelink.json
+E:\Coding\Lectures\Övningsuppgifter\Variabler\4. Jämför tal\Jämför tal\obj\Debug\net8.0\Jämför tal.dll
+E:\Coding\Lectures\Övningsuppgifter\Variabler\4. Jämför tal\Jämför tal\obj\Debug\net8.0\refint\Jämför tal.dll
+E:\Coding\Lectures\Övningsuppgifter\Variabler\4. Jämför tal\Jämför tal\obj\Debug\net8.0\Jämför tal.pdb
+E:\Coding\Lectures\Övningsuppgifter\Variabler\4. Jämför tal\Jämför tal\obj\Debug\net8.0\Jämför tal.genruntimeconfig.cache
+E:\Coding\Lectures\Övningsuppgifter\Variabler\4. Jämför tal\Jämför tal\obj\Debug\net8.0\ref\Jämför tal.dll
