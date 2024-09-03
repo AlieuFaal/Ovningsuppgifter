@@ -1,0 +1,15 @@
+E:\Coding\Lectures\Övningsuppgifter\Loopar\2. Jämna tal\bin\Debug\net8.0\2. Jämna tal.exe
+E:\Coding\Lectures\Övningsuppgifter\Loopar\2. Jämna tal\bin\Debug\net8.0\2. Jämna tal.deps.json
+E:\Coding\Lectures\Övningsuppgifter\Loopar\2. Jämna tal\bin\Debug\net8.0\2. Jämna tal.runtimeconfig.json
+E:\Coding\Lectures\Övningsuppgifter\Loopar\2. Jämna tal\bin\Debug\net8.0\2. Jämna tal.dll
+E:\Coding\Lectures\Övningsuppgifter\Loopar\2. Jämna tal\bin\Debug\net8.0\2. Jämna tal.pdb
+E:\Coding\Lectures\Övningsuppgifter\Loopar\2. Jämna tal\obj\Debug\net8.0\2. Jämna tal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Lectures\Övningsuppgifter\Loopar\2. Jämna tal\obj\Debug\net8.0\2. Jämna tal.AssemblyInfoInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Loopar\2. Jämna tal\obj\Debug\net8.0\2. Jämna tal.AssemblyInfo.cs
+E:\Coding\Lectures\Övningsuppgifter\Loopar\2. Jämna tal\obj\Debug\net8.0\2. Jämna tal.csproj.CoreCompileInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Loopar\2. Jämna tal\obj\Debug\net8.0\2. Jämna tal.sourcelink.json
+E:\Coding\Lectures\Övningsuppgifter\Loopar\2. Jämna tal\obj\Debug\net8.0\2. Jämna tal.dll
+E:\Coding\Lectures\Övningsuppgifter\Loopar\2. Jämna tal\obj\Debug\net8.0\refint\2. Jämna tal.dll
+E:\Coding\Lectures\Övningsuppgifter\Loopar\2. Jämna tal\obj\Debug\net8.0\2. Jämna tal.pdb
+E:\Coding\Lectures\Övningsuppgifter\Loopar\2. Jämna tal\obj\Debug\net8.0\2. Jämna tal.genruntimeconfig.cache
+E:\Coding\Lectures\Övningsuppgifter\Loopar\2. Jämna tal\obj\Debug\net8.0\ref\2. Jämna tal.dll
