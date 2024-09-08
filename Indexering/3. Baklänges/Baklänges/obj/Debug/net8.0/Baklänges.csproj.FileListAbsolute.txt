@@ -1,0 +1,15 @@
+E:\Coding\Lectures\Övningsuppgifter\Indexering\3. Baklänges\Baklänges\bin\Debug\net8.0\Baklänges.exe
+E:\Coding\Lectures\Övningsuppgifter\Indexering\3. Baklänges\Baklänges\bin\Debug\net8.0\Baklänges.deps.json
+E:\Coding\Lectures\Övningsuppgifter\Indexering\3. Baklänges\Baklänges\bin\Debug\net8.0\Baklänges.runtimeconfig.json
+E:\Coding\Lectures\Övningsuppgifter\Indexering\3. Baklänges\Baklänges\bin\Debug\net8.0\Baklänges.dll
+E:\Coding\Lectures\Övningsuppgifter\Indexering\3. Baklänges\Baklänges\bin\Debug\net8.0\Baklänges.pdb
+E:\Coding\Lectures\Övningsuppgifter\Indexering\3. Baklänges\Baklänges\obj\Debug\net8.0\Baklänges.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Lectures\Övningsuppgifter\Indexering\3. Baklänges\Baklänges\obj\Debug\net8.0\Baklänges.AssemblyInfoInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Indexering\3. Baklänges\Baklänges\obj\Debug\net8.0\Baklänges.AssemblyInfo.cs
+E:\Coding\Lectures\Övningsuppgifter\Indexering\3. Baklänges\Baklänges\obj\Debug\net8.0\Baklänges.csproj.CoreCompileInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Indexering\3. Baklänges\Baklänges\obj\Debug\net8.0\Baklänges.sourcelink.json
+E:\Coding\Lectures\Övningsuppgifter\Indexering\3. Baklänges\Baklänges\obj\Debug\net8.0\Baklänges.dll
+E:\Coding\Lectures\Övningsuppgifter\Indexering\3. Baklänges\Baklänges\obj\Debug\net8.0\refint\Baklänges.dll
+E:\Coding\Lectures\Övningsuppgifter\Indexering\3. Baklänges\Baklänges\obj\Debug\net8.0\Baklänges.pdb
+E:\Coding\Lectures\Övningsuppgifter\Indexering\3. Baklänges\Baklänges\obj\Debug\net8.0\Baklänges.genruntimeconfig.cache
+E:\Coding\Lectures\Övningsuppgifter\Indexering\3. Baklänges\Baklänges\obj\Debug\net8.0\ref\Baklänges.dll

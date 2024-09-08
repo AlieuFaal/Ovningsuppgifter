@@ -1,0 +1,15 @@
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\4. Bokstav för bokstav - gröna o, röda l\bin\Debug\net8.0\4. Bokstav för bokstav - gröna o, röda l.exe
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\4. Bokstav för bokstav - gröna o, röda l\bin\Debug\net8.0\4. Bokstav för bokstav - gröna o, röda l.deps.json
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\4. Bokstav för bokstav - gröna o, röda l\bin\Debug\net8.0\4. Bokstav för bokstav - gröna o, röda l.runtimeconfig.json
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\4. Bokstav för bokstav - gröna o, röda l\bin\Debug\net8.0\4. Bokstav för bokstav - gröna o, röda l.dll
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\4. Bokstav för bokstav - gröna o, röda l\bin\Debug\net8.0\4. Bokstav för bokstav - gröna o, röda l.pdb
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\4. Bokstav för bokstav - gröna o, röda l\obj\Debug\net8.0\4. Bokstav för bokstav - gröna o, röda l.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\4. Bokstav för bokstav - gröna o, röda l\obj\Debug\net8.0\4. Bokstav för bokstav - gröna o, röda l.AssemblyInfoInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\4. Bokstav för bokstav - gröna o, röda l\obj\Debug\net8.0\4. Bokstav för bokstav - gröna o, röda l.AssemblyInfo.cs
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\4. Bokstav för bokstav - gröna o, röda l\obj\Debug\net8.0\4. Bokstav för bokstav - gröna o, röda l.csproj.CoreCompileInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\4. Bokstav för bokstav - gröna o, röda l\obj\Debug\net8.0\4. Bokstav för bokstav - gröna o, röda l.sourcelink.json
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\4. Bokstav för bokstav - gröna o, röda l\obj\Debug\net8.0\4. Bokstav för bokstav - gröna o, röda l.dll
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\4. Bokstav för bokstav - gröna o, röda l\obj\Debug\net8.0\refint\4. Bokstav för bokstav - gröna o, röda l.dll
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\4. Bokstav för bokstav - gröna o, röda l\obj\Debug\net8.0\4. Bokstav för bokstav - gröna o, röda l.pdb
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\4. Bokstav för bokstav - gröna o, röda l\obj\Debug\net8.0\4. Bokstav för bokstav - gröna o, röda l.genruntimeconfig.cache
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\4. Bokstav för bokstav - gröna o, röda l\obj\Debug\net8.0\ref\4. Bokstav för bokstav - gröna o, röda l.dll

@@ -1,0 +1,15 @@
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\3. Kolla om strängen är längre\bin\Debug\net8.0\3. Kolla om strängen är längre.exe
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\3. Kolla om strängen är längre\bin\Debug\net8.0\3. Kolla om strängen är längre.deps.json
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\3. Kolla om strängen är längre\bin\Debug\net8.0\3. Kolla om strängen är längre.runtimeconfig.json
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\3. Kolla om strängen är längre\bin\Debug\net8.0\3. Kolla om strängen är längre.dll
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\3. Kolla om strängen är längre\bin\Debug\net8.0\3. Kolla om strängen är längre.pdb
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\3. Kolla om strängen är längre\obj\Debug\net8.0\3. Kolla om strängen är längre.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\3. Kolla om strängen är längre\obj\Debug\net8.0\3. Kolla om strängen är längre.AssemblyInfoInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\3. Kolla om strängen är längre\obj\Debug\net8.0\3. Kolla om strängen är längre.AssemblyInfo.cs
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\3. Kolla om strängen är längre\obj\Debug\net8.0\3. Kolla om strängen är längre.csproj.CoreCompileInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\3. Kolla om strängen är längre\obj\Debug\net8.0\3. Kolla om strängen är längre.sourcelink.json
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\3. Kolla om strängen är längre\obj\Debug\net8.0\3. Kolla om strängen är längre.dll
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\3. Kolla om strängen är längre\obj\Debug\net8.0\refint\3. Kolla om strängen är längre.dll
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\3. Kolla om strängen är längre\obj\Debug\net8.0\3. Kolla om strängen är längre.pdb
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\3. Kolla om strängen är längre\obj\Debug\net8.0\3. Kolla om strängen är längre.genruntimeconfig.cache
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\3. Kolla om strängen är längre\obj\Debug\net8.0\ref\3. Kolla om strängen är längre.dll

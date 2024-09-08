@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "5. Lägg in bindesträck mellan tecken i en sträng/1.0.0": {
+        "runtime": {
+          "5. Lägg in bindesträck mellan tecken i en sträng.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5. Lägg in bindesträck mellan tecken i en sträng/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "4. Bokstav för bokstav - gröna o, röda l/1.0.0": {
+        "runtime": {
+          "4. Bokstav för bokstav - gröna o, röda l.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "4. Bokstav för bokstav - gröna o, röda l/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

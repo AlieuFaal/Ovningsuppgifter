@@ -1,0 +1,15 @@
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\5. Bokstav för bokstav - dubbla med grön färg\bin\Debug\net8.0\5. Bokstav för bokstav - dubbla med grön färg.exe
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\5. Bokstav för bokstav - dubbla med grön färg\bin\Debug\net8.0\5. Bokstav för bokstav - dubbla med grön färg.deps.json
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\5. Bokstav för bokstav - dubbla med grön färg\bin\Debug\net8.0\5. Bokstav för bokstav - dubbla med grön färg.runtimeconfig.json
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\5. Bokstav för bokstav - dubbla med grön färg\bin\Debug\net8.0\5. Bokstav för bokstav - dubbla med grön färg.dll
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\5. Bokstav för bokstav - dubbla med grön färg\bin\Debug\net8.0\5. Bokstav för bokstav - dubbla med grön färg.pdb
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\5. Bokstav för bokstav - dubbla med grön färg\obj\Debug\net8.0\5. Bokstav för bokstav - dubbla med grön färg.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\5. Bokstav för bokstav - dubbla med grön färg\obj\Debug\net8.0\5. Bokstav för bokstav - dubbla med grön färg.AssemblyInfoInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\5. Bokstav för bokstav - dubbla med grön färg\obj\Debug\net8.0\5. Bokstav för bokstav - dubbla med grön färg.AssemblyInfo.cs
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\5. Bokstav för bokstav - dubbla med grön färg\obj\Debug\net8.0\5. Bokstav för bokstav - dubbla med grön färg.csproj.CoreCompileInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\5. Bokstav för bokstav - dubbla med grön färg\obj\Debug\net8.0\5. Bokstav för bokstav - dubbla med grön färg.sourcelink.json
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\5. Bokstav för bokstav - dubbla med grön färg\obj\Debug\net8.0\5. Bokstav för bokstav - dubbla med grön färg.dll
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\5. Bokstav för bokstav - dubbla med grön färg\obj\Debug\net8.0\refint\5. Bokstav för bokstav - dubbla med grön färg.dll
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\5. Bokstav för bokstav - dubbla med grön färg\obj\Debug\net8.0\5. Bokstav för bokstav - dubbla med grön färg.pdb
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\5. Bokstav för bokstav - dubbla med grön färg\obj\Debug\net8.0\5. Bokstav för bokstav - dubbla med grön färg.genruntimeconfig.cache
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\5. Bokstav för bokstav - dubbla med grön färg\obj\Debug\net8.0\ref\5. Bokstav för bokstav - dubbla med grön färg.dll

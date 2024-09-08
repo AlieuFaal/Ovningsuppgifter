@@ -1,0 +1,15 @@
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\6. Bokstav för bokstav - grön substring\bin\Debug\net8.0\6. Bokstav för bokstav - grön substring.exe
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\6. Bokstav för bokstav - grön substring\bin\Debug\net8.0\6. Bokstav för bokstav - grön substring.deps.json
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\6. Bokstav för bokstav - grön substring\bin\Debug\net8.0\6. Bokstav för bokstav - grön substring.runtimeconfig.json
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\6. Bokstav för bokstav - grön substring\bin\Debug\net8.0\6. Bokstav för bokstav - grön substring.dll
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\6. Bokstav för bokstav - grön substring\bin\Debug\net8.0\6. Bokstav för bokstav - grön substring.pdb
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\6. Bokstav för bokstav - grön substring\obj\Debug\net8.0\6. Bokstav för bokstav - grön substring.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\6. Bokstav för bokstav - grön substring\obj\Debug\net8.0\6. Bokstav för bokstav - grön substring.AssemblyInfoInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\6. Bokstav för bokstav - grön substring\obj\Debug\net8.0\6. Bokstav för bokstav - grön substring.AssemblyInfo.cs
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\6. Bokstav för bokstav - grön substring\obj\Debug\net8.0\6. Bokstav för bokstav - grön substring.csproj.CoreCompileInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\6. Bokstav för bokstav - grön substring\obj\Debug\net8.0\6. Bokstav för bokstav - grön substring.sourcelink.json
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\6. Bokstav för bokstav - grön substring\obj\Debug\net8.0\6. Bokstav för bokstav - grön substring.dll
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\6. Bokstav för bokstav - grön substring\obj\Debug\net8.0\refint\6. Bokstav för bokstav - grön substring.dll
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\6. Bokstav för bokstav - grön substring\obj\Debug\net8.0\6. Bokstav för bokstav - grön substring.pdb
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\6. Bokstav för bokstav - grön substring\obj\Debug\net8.0\6. Bokstav för bokstav - grön substring.genruntimeconfig.cache
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\6. Bokstav för bokstav - grön substring\obj\Debug\net8.0\ref\6. Bokstav för bokstav - grön substring.dll

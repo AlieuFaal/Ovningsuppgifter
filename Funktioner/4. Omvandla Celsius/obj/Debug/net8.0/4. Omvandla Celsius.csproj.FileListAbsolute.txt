@@ -1,0 +1,15 @@
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\4. Omvandla Celsius\bin\Debug\net8.0\4. Omvandla Celsius.exe
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\4. Omvandla Celsius\bin\Debug\net8.0\4. Omvandla Celsius.deps.json
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\4. Omvandla Celsius\bin\Debug\net8.0\4. Omvandla Celsius.runtimeconfig.json
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\4. Omvandla Celsius\bin\Debug\net8.0\4. Omvandla Celsius.dll
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\4. Omvandla Celsius\bin\Debug\net8.0\4. Omvandla Celsius.pdb
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\4. Omvandla Celsius\obj\Debug\net8.0\4. Omvandla Celsius.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\4. Omvandla Celsius\obj\Debug\net8.0\4. Omvandla Celsius.AssemblyInfoInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\4. Omvandla Celsius\obj\Debug\net8.0\4. Omvandla Celsius.AssemblyInfo.cs
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\4. Omvandla Celsius\obj\Debug\net8.0\4. Omvandla Celsius.csproj.CoreCompileInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\4. Omvandla Celsius\obj\Debug\net8.0\4. Omvandla Celsius.sourcelink.json
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\4. Omvandla Celsius\obj\Debug\net8.0\4. Omvandla Celsius.dll
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\4. Omvandla Celsius\obj\Debug\net8.0\refint\4. Omvandla Celsius.dll
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\4. Omvandla Celsius\obj\Debug\net8.0\4. Omvandla Celsius.pdb
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\4. Omvandla Celsius\obj\Debug\net8.0\4. Omvandla Celsius.genruntimeconfig.cache
+E:\Coding\Lectures\Övningsuppgifter\Funktioner\4. Omvandla Celsius\obj\Debug\net8.0\ref\4. Omvandla Celsius.dll
