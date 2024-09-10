@@ -1,0 +1,15 @@
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\12. Rödmarkerade ord\bin\Debug\net8.0\12. Rödmarkerade ord.exe
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\12. Rödmarkerade ord\bin\Debug\net8.0\12. Rödmarkerade ord.deps.json
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\12. Rödmarkerade ord\bin\Debug\net8.0\12. Rödmarkerade ord.runtimeconfig.json
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\12. Rödmarkerade ord\bin\Debug\net8.0\12. Rödmarkerade ord.dll
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\12. Rödmarkerade ord\bin\Debug\net8.0\12. Rödmarkerade ord.pdb
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\12. Rödmarkerade ord\obj\Debug\net8.0\12. Rödmarkerade ord.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\12. Rödmarkerade ord\obj\Debug\net8.0\12. Rödmarkerade ord.AssemblyInfoInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\12. Rödmarkerade ord\obj\Debug\net8.0\12. Rödmarkerade ord.AssemblyInfo.cs
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\12. Rödmarkerade ord\obj\Debug\net8.0\12. Rödmarkerade ord.csproj.CoreCompileInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\12. Rödmarkerade ord\obj\Debug\net8.0\12. Rödmarkerade ord.sourcelink.json
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\12. Rödmarkerade ord\obj\Debug\net8.0\12. Rödmarkerade ord.dll
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\12. Rödmarkerade ord\obj\Debug\net8.0\refint\12. Rödmarkerade ord.dll
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\12. Rödmarkerade ord\obj\Debug\net8.0\12. Rödmarkerade ord.pdb
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\12. Rödmarkerade ord\obj\Debug\net8.0\12. Rödmarkerade ord.genruntimeconfig.cache
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\12. Rödmarkerade ord\obj\Debug\net8.0\ref\12. Rödmarkerade ord.dll

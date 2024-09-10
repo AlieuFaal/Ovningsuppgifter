@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14. Rödmarkerade bokstäver 2", "14. Rödmarkerade bokstäver 2.csproj", "{DE78B34A-50AD-48F7-A020-FD28E6E3479A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE78B34A-50AD-48F7-A020-FD28E6E3479A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE78B34A-50AD-48F7-A020-FD28E6E3479A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE78B34A-50AD-48F7-A020-FD28E6E3479A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE78B34A-50AD-48F7-A020-FD28E6E3479A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90C189F7-3BA4-4E47-A715-4BAE3B5006F9}
+	EndGlobalSection
+EndGlobal

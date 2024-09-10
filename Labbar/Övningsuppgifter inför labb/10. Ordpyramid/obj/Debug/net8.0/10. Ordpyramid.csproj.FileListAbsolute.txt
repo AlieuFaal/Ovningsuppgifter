@@ -1,0 +1,15 @@
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\10. Ordpyramid\bin\Debug\net8.0\10. Ordpyramid.exe
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\10. Ordpyramid\bin\Debug\net8.0\10. Ordpyramid.deps.json
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\10. Ordpyramid\bin\Debug\net8.0\10. Ordpyramid.runtimeconfig.json
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\10. Ordpyramid\bin\Debug\net8.0\10. Ordpyramid.dll
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\10. Ordpyramid\bin\Debug\net8.0\10. Ordpyramid.pdb
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\10. Ordpyramid\obj\Debug\net8.0\10. Ordpyramid.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\10. Ordpyramid\obj\Debug\net8.0\10. Ordpyramid.AssemblyInfoInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\10. Ordpyramid\obj\Debug\net8.0\10. Ordpyramid.AssemblyInfo.cs
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\10. Ordpyramid\obj\Debug\net8.0\10. Ordpyramid.csproj.CoreCompileInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\10. Ordpyramid\obj\Debug\net8.0\10. Ordpyramid.sourcelink.json
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\10. Ordpyramid\obj\Debug\net8.0\10. Ordpyramid.dll
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\10. Ordpyramid\obj\Debug\net8.0\refint\10. Ordpyramid.dll
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\10. Ordpyramid\obj\Debug\net8.0\10. Ordpyramid.pdb
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\10. Ordpyramid\obj\Debug\net8.0\10. Ordpyramid.genruntimeconfig.cache
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Övningsuppgifter inför labb\10. Ordpyramid\obj\Debug\net8.0\ref\10. Ordpyramid.dll

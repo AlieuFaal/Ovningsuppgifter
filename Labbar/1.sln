@@ -25,6 +25,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Bokstavspyramid", "Övni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Ordpyramid", "Övningsuppgifter inför labb\10. Ordpyramid\10. Ordpyramid.csproj", "{684F09E4-4F45-4B36-9B30-CC01D60688B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Ordpyramid 2", "Övningsuppgifter inför labb\11. Ordpyramid 2\11. Ordpyramid 2.csproj", "{62C8F1F1-992A-4B7D-B809-FCA9FC81129C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Rödmarkerade ord", "Övningsuppgifter inför labb\12. Rödmarkerade ord\12. Rödmarkerade ord.csproj", "{2C54F3A1-D897-4295-B221-2755F0DA9860}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Rödmarkerade bokstäver", "13. Rödmarkerade bokstäver\13. Rödmarkerade bokstäver.csproj", "{5F44D30B-548F-4FB9-8C6B-963D31F0604A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Rödmarkerade bokstäver", "Övningsuppgifter inför labb\13. Rödmarkerade bokstäver\13. Rödmarkerade bokstäver.csproj", "{F56DA132-0846-48A6-8420-284147D36069}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -74,6 +82,22 @@ Global
 		{684F09E4-4F45-4B36-9B30-CC01D60688B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{684F09E4-4F45-4B36-9B30-CC01D60688B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{684F09E4-4F45-4B36-9B30-CC01D60688B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62C8F1F1-992A-4B7D-B809-FCA9FC81129C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C8F1F1-992A-4B7D-B809-FCA9FC81129C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C8F1F1-992A-4B7D-B809-FCA9FC81129C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C8F1F1-992A-4B7D-B809-FCA9FC81129C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C54F3A1-D897-4295-B221-2755F0DA9860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C54F3A1-D897-4295-B221-2755F0DA9860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C54F3A1-D897-4295-B221-2755F0DA9860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C54F3A1-D897-4295-B221-2755F0DA9860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F44D30B-548F-4FB9-8C6B-963D31F0604A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F44D30B-548F-4FB9-8C6B-963D31F0604A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F44D30B-548F-4FB9-8C6B-963D31F0604A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F44D30B-548F-4FB9-8C6B-963D31F0604A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F56DA132-0846-48A6-8420-284147D36069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56DA132-0846-48A6-8420-284147D36069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56DA132-0846-48A6-8420-284147D36069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56DA132-0846-48A6-8420-284147D36069}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{8FCF470A-E831-409E-AE9F-553251ACF3F7} = {90C904F8-3D82-42FD-BC2D-AF616C1789A1}
@@ -86,5 +110,8 @@ Global
 		{5A541F21-E56C-4FB8-8E34-9AA03B22393A} = {90C904F8-3D82-42FD-BC2D-AF616C1789A1}
 		{FDE1B052-E780-48A2-935A-41B24ED7F9E4} = {90C904F8-3D82-42FD-BC2D-AF616C1789A1}
 		{684F09E4-4F45-4B36-9B30-CC01D60688B7} = {90C904F8-3D82-42FD-BC2D-AF616C1789A1}
+		{62C8F1F1-992A-4B7D-B809-FCA9FC81129C} = {90C904F8-3D82-42FD-BC2D-AF616C1789A1}
+		{2C54F3A1-D897-4295-B221-2755F0DA9860} = {90C904F8-3D82-42FD-BC2D-AF616C1789A1}
+		{F56DA132-0846-48A6-8420-284147D36069} = {90C904F8-3D82-42FD-BC2D-AF616C1789A1}
 	EndGlobalSection
 EndGlobal
