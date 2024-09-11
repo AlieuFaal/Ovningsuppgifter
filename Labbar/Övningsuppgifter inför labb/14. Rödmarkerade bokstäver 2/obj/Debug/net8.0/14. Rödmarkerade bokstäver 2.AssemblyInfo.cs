@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("14. Rödmarkerade bokstäver 2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+054749e3cf611f6f2b55b24b0b16ddcaa50c14e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32c8a496e2ad3f122b4fb83fa8db711aad748445")]
 [assembly: System.Reflection.AssemblyProductAttribute("14. Rödmarkerade bokstäver 2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("14. Rödmarkerade bokstäver 2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
