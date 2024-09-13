@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Rödmarkerade bokstäve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Rödmarkerade bokstäver", "Övningsuppgifter inför labb\13. Rödmarkerade bokstäver\13. Rödmarkerade bokstäver.csproj", "{F56DA132-0846-48A6-8420-284147D36069}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labb 1 – Hitta tal i sträng med tecken", "Labb 1 – Hitta tal i sträng med tecken\Labb 1 – Hitta tal i sträng med tecken.csproj", "{7CEEB666-C4F2-4DF6-AC54-0DF8D2261037}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -98,6 +100,10 @@ Global
 		{F56DA132-0846-48A6-8420-284147D36069}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F56DA132-0846-48A6-8420-284147D36069}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F56DA132-0846-48A6-8420-284147D36069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CEEB666-C4F2-4DF6-AC54-0DF8D2261037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CEEB666-C4F2-4DF6-AC54-0DF8D2261037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CEEB666-C4F2-4DF6-AC54-0DF8D2261037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CEEB666-C4F2-4DF6-AC54-0DF8D2261037}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{8FCF470A-E831-409E-AE9F-553251ACF3F7} = {90C904F8-3D82-42FD-BC2D-AF616C1789A1}

@@ -13,12 +13,13 @@ for (int i = 0; i < yourString.Length; i++)
     {
         Console.ResetColor();
     }
+        
+        System.Console.Write(yourString[i]);
 
-    System.Console.Write(yourString[i]);
-
-    if (yourString[0] == yourString[i])
+    if (i != 0 && yourString[0] == yourString[i])
     {
         foundFirstChar = true;
+
     }
 }
 

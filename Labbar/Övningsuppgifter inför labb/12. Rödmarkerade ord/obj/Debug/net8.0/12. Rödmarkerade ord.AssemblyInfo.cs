@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("12. Rödmarkerade ord")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79a782f96e00dfe1551d73e418effbf55de69fcf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c83c1fbe1d83c414362bcb82615ac9154bc5acc")]
 [assembly: System.Reflection.AssemblyProductAttribute("12. Rödmarkerade ord")]
 [assembly: System.Reflection.AssemblyTitleAttribute("12. Rödmarkerade ord")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

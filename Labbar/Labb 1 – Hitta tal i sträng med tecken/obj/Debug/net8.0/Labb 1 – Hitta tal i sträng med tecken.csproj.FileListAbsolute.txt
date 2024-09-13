@@ -1,0 +1,15 @@
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Labb 1 – Hitta tal i sträng med tecken\bin\Debug\net8.0\Labb 1 – Hitta tal i sträng med tecken.exe
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Labb 1 – Hitta tal i sträng med tecken\bin\Debug\net8.0\Labb 1 – Hitta tal i sträng med tecken.deps.json
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Labb 1 – Hitta tal i sträng med tecken\bin\Debug\net8.0\Labb 1 – Hitta tal i sträng med tecken.runtimeconfig.json
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Labb 1 – Hitta tal i sträng med tecken\bin\Debug\net8.0\Labb 1 – Hitta tal i sträng med tecken.dll
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Labb 1 – Hitta tal i sträng med tecken\bin\Debug\net8.0\Labb 1 – Hitta tal i sträng med tecken.pdb
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Labb 1 – Hitta tal i sträng med tecken\obj\Debug\net8.0\Labb 1 – Hitta tal i sträng med tecken.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Labb 1 – Hitta tal i sträng med tecken\obj\Debug\net8.0\Labb 1 – Hitta tal i sträng med tecken.AssemblyInfoInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Labb 1 – Hitta tal i sträng med tecken\obj\Debug\net8.0\Labb 1 – Hitta tal i sträng med tecken.AssemblyInfo.cs
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Labb 1 – Hitta tal i sträng med tecken\obj\Debug\net8.0\Labb 1 – Hitta tal i sträng med tecken.csproj.CoreCompileInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Labb 1 – Hitta tal i sträng med tecken\obj\Debug\net8.0\Labb 1 – Hitta tal i sträng med tecken.sourcelink.json
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Labb 1 – Hitta tal i sträng med tecken\obj\Debug\net8.0\Labb 1 – Hitta tal i sträng med tecken.dll
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Labb 1 – Hitta tal i sträng med tecken\obj\Debug\net8.0\refint\Labb 1 – Hitta tal i sträng med tecken.dll
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Labb 1 – Hitta tal i sträng med tecken\obj\Debug\net8.0\Labb 1 – Hitta tal i sträng med tecken.pdb
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Labb 1 – Hitta tal i sträng med tecken\obj\Debug\net8.0\Labb 1 – Hitta tal i sträng med tecken.genruntimeconfig.cache
+E:\Coding\Lectures\Övningsuppgifter\Labbar\Labb 1 – Hitta tal i sträng med tecken\obj\Debug\net8.0\ref\Labb 1 – Hitta tal i sträng med tecken.dll
