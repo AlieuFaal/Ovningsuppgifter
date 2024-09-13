@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Coding\\Lectures\\Övningsuppgifter\\Labbar\\Övningsuppgifter inför labb\\10. Ordpyramid\\10. Ordpyramid.csproj": {}
+    "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Övningsuppgifter inför labb/10. Ordpyramid/10. Ordpyramid.csproj": {}
   },
   "projects": {
-    "E:\\Coding\\Lectures\\Övningsuppgifter\\Labbar\\Övningsuppgifter inför labb\\10. Ordpyramid\\10. Ordpyramid.csproj": {
+    "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Övningsuppgifter inför labb/10. Ordpyramid/10. Ordpyramid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding\\Lectures\\Övningsuppgifter\\Labbar\\Övningsuppgifter inför labb\\10. Ordpyramid\\10. Ordpyramid.csproj",
+        "projectUniqueName": "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Övningsuppgifter inför labb/10. Ordpyramid/10. Ordpyramid.csproj",
         "projectName": "10. Ordpyramid",
-        "projectPath": "E:\\Coding\\Lectures\\Övningsuppgifter\\Labbar\\Övningsuppgifter inför labb\\10. Ordpyramid\\10. Ordpyramid.csproj",
-        "packagesPath": "C:\\Users\\alidj\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding\\Lectures\\Övningsuppgifter\\Labbar\\Övningsuppgifter inför labb\\10. Ordpyramid\\obj\\",
+        "projectPath": "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Övningsuppgifter inför labb/10. Ordpyramid/10. Ordpyramid.csproj",
+        "packagesPath": "/Users/alieufaal/.nuget/packages/",
+        "outputPath": "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Övningsuppgifter inför labb/10. Ordpyramid/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alidj\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/alieufaal/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
