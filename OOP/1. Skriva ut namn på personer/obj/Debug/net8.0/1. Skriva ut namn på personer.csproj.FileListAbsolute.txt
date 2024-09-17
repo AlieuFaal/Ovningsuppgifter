@@ -1,0 +1,15 @@
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/OOP/1. Skriva ut namn på personer/bin/Debug/net8.0/1. Skriva ut namn på personer
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/OOP/1. Skriva ut namn på personer/bin/Debug/net8.0/1. Skriva ut namn på personer.deps.json
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/OOP/1. Skriva ut namn på personer/bin/Debug/net8.0/1. Skriva ut namn på personer.runtimeconfig.json
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/OOP/1. Skriva ut namn på personer/bin/Debug/net8.0/1. Skriva ut namn på personer.dll
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/OOP/1. Skriva ut namn på personer/bin/Debug/net8.0/1. Skriva ut namn på personer.pdb
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/OOP/1. Skriva ut namn på personer/obj/Debug/net8.0/1. Skriva ut namn på personer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/OOP/1. Skriva ut namn på personer/obj/Debug/net8.0/1. Skriva ut namn på personer.AssemblyInfoInputs.cache
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/OOP/1. Skriva ut namn på personer/obj/Debug/net8.0/1. Skriva ut namn på personer.AssemblyInfo.cs
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/OOP/1. Skriva ut namn på personer/obj/Debug/net8.0/1. Skriva ut namn på personer.csproj.CoreCompileInputs.cache
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/OOP/1. Skriva ut namn på personer/obj/Debug/net8.0/1. Skriva ut namn på personer.sourcelink.json
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/OOP/1. Skriva ut namn på personer/obj/Debug/net8.0/1. Skriva ut namn på personer.dll
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/OOP/1. Skriva ut namn på personer/obj/Debug/net8.0/refint/1. Skriva ut namn på personer.dll
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/OOP/1. Skriva ut namn på personer/obj/Debug/net8.0/1. Skriva ut namn på personer.pdb
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/OOP/1. Skriva ut namn på personer/obj/Debug/net8.0/1. Skriva ut namn på personer.genruntimeconfig.cache
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/OOP/1. Skriva ut namn på personer/obj/Debug/net8.0/ref/1. Skriva ut namn på personer.dll

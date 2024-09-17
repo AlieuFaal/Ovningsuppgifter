@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 1 – Hitta tal i sträng med tecken/Labb 1 – Hitta tal i sträng med tecken.csproj": {}
+    "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/OOP/1. Skriva ut namn på personer/1. Skriva ut namn på personer.csproj": {}
   },
   "projects": {
-    "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 1 – Hitta tal i sträng med tecken/Labb 1 – Hitta tal i sträng med tecken.csproj": {
+    "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/OOP/1. Skriva ut namn på personer/1. Skriva ut namn på personer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 1 – Hitta tal i sträng med tecken/Labb 1 – Hitta tal i sträng med tecken.csproj",
-        "projectName": "Labb 1 – Hitta tal i sträng med tecken",
-        "projectPath": "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 1 – Hitta tal i sträng med tecken/Labb 1 – Hitta tal i sträng med tecken.csproj",
+        "projectUniqueName": "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/OOP/1. Skriva ut namn på personer/1. Skriva ut namn på personer.csproj",
+        "projectName": "1. Skriva ut namn på personer",
+        "projectPath": "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/OOP/1. Skriva ut namn på personer/1. Skriva ut namn på personer.csproj",
         "packagesPath": "/Users/alieufaal/.nuget/packages/",
-        "outputPath": "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 1 – Hitta tal i sträng med tecken/obj/",
+        "outputPath": "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/OOP/1. Skriva ut namn på personer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alieufaal/.nuget/NuGet/NuGet.Config"
