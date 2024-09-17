@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("8. Bokstav för bokstav - grön substring 3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c83c1fbe1d83c414362bcb82615ac9154bc5acc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a5059cb7d8fc6e5e7fde53411f95a6a3a7c90c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("8. Bokstav för bokstav - grön substring 3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("8. Bokstav för bokstav - grön substring 3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
