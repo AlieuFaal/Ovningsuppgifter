@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Labb 1 – Hitta tal i sträng med tecken")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77deeba703971e3e9ba11b6dc647cf713e86f37f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ade603d4328e97862a20103662281f8ecf2c88e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Labb 1 – Hitta tal i sträng med tecken")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Labb 1 – Hitta tal i sträng med tecken")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

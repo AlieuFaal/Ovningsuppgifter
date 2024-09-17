@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 1 – Hitta tal i sträng med tecken/Labb 1 – Hitta tal i sträng med tecken.csproj": {}
+    "E:\\Coding\\Lectures\\Övningsuppgifter\\Labbar\\Labb 1 – Hitta tal i sträng med tecken\\Labb 1 – Hitta tal i sträng med tecken.csproj": {}
   },
   "projects": {
-    "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 1 – Hitta tal i sträng med tecken/Labb 1 – Hitta tal i sträng med tecken.csproj": {
+    "E:\\Coding\\Lectures\\Övningsuppgifter\\Labbar\\Labb 1 – Hitta tal i sträng med tecken\\Labb 1 – Hitta tal i sträng med tecken.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 1 – Hitta tal i sträng med tecken/Labb 1 – Hitta tal i sträng med tecken.csproj",
+        "projectUniqueName": "E:\\Coding\\Lectures\\Övningsuppgifter\\Labbar\\Labb 1 – Hitta tal i sträng med tecken\\Labb 1 – Hitta tal i sträng med tecken.csproj",
         "projectName": "Labb 1 – Hitta tal i sträng med tecken",
-        "projectPath": "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 1 – Hitta tal i sträng med tecken/Labb 1 – Hitta tal i sträng med tecken.csproj",
-        "packagesPath": "/Users/alieufaal/.nuget/packages/",
-        "outputPath": "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 1 – Hitta tal i sträng med tecken/obj/",
+        "projectPath": "E:\\Coding\\Lectures\\Övningsuppgifter\\Labbar\\Labb 1 – Hitta tal i sträng med tecken\\Labb 1 – Hitta tal i sträng med tecken.csproj",
+        "packagesPath": "C:\\Users\\alidj\\.nuget\\packages\\",
+        "outputPath": "E:\\Coding\\Lectures\\Övningsuppgifter\\Labbar\\Labb 1 – Hitta tal i sträng med tecken\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/alieufaal/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\alidj\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
