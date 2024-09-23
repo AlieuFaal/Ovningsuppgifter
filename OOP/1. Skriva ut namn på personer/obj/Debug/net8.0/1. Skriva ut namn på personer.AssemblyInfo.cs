@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1. Skriva ut namn på personer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ade603d4328e97862a20103662281f8ecf2c88e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e367e0ef3a2157ba666bcb24373e80e1d3bd23bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("1. Skriva ut namn på personer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1. Skriva ut namn på personer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
