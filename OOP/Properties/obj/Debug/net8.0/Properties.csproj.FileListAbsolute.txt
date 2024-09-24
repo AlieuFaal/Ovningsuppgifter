@@ -1,0 +1,15 @@
+E:\Coding\Lectures\Övningsuppgifter\OOP\Properties\bin\Debug\net8.0\Properties.exe
+E:\Coding\Lectures\Övningsuppgifter\OOP\Properties\bin\Debug\net8.0\Properties.deps.json
+E:\Coding\Lectures\Övningsuppgifter\OOP\Properties\bin\Debug\net8.0\Properties.runtimeconfig.json
+E:\Coding\Lectures\Övningsuppgifter\OOP\Properties\bin\Debug\net8.0\Properties.dll
+E:\Coding\Lectures\Övningsuppgifter\OOP\Properties\bin\Debug\net8.0\Properties.pdb
+E:\Coding\Lectures\Övningsuppgifter\OOP\Properties\obj\Debug\net8.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Lectures\Övningsuppgifter\OOP\Properties\obj\Debug\net8.0\Properties.AssemblyInfoInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\OOP\Properties\obj\Debug\net8.0\Properties.AssemblyInfo.cs
+E:\Coding\Lectures\Övningsuppgifter\OOP\Properties\obj\Debug\net8.0\Properties.csproj.CoreCompileInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\OOP\Properties\obj\Debug\net8.0\Properties.sourcelink.json
+E:\Coding\Lectures\Övningsuppgifter\OOP\Properties\obj\Debug\net8.0\Properties.dll
+E:\Coding\Lectures\Övningsuppgifter\OOP\Properties\obj\Debug\net8.0\refint\Properties.dll
+E:\Coding\Lectures\Övningsuppgifter\OOP\Properties\obj\Debug\net8.0\Properties.pdb
+E:\Coding\Lectures\Övningsuppgifter\OOP\Properties\obj\Debug\net8.0\Properties.genruntimeconfig.cache
+E:\Coding\Lectures\Övningsuppgifter\OOP\Properties\obj\Debug\net8.0\ref\Properties.dll
