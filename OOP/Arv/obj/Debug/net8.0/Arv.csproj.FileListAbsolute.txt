@@ -1,0 +1,15 @@
+e:\Coding\Lectures\Övningsuppgifter\OOP\Arv\bin\Debug\net8.0\Arv.exe
+E:\Coding\Lectures\Övningsuppgifter\OOP\Arv\bin\Debug\net8.0\Arv.deps.json
+E:\Coding\Lectures\Övningsuppgifter\OOP\Arv\bin\Debug\net8.0\Arv.runtimeconfig.json
+e:\Coding\Lectures\Övningsuppgifter\OOP\Arv\bin\Debug\net8.0\Arv.dll
+e:\Coding\Lectures\Övningsuppgifter\OOP\Arv\bin\Debug\net8.0\Arv.pdb
+e:\Coding\Lectures\Övningsuppgifter\OOP\Arv\obj\Debug\net8.0\Arv.GeneratedMSBuildEditorConfig.editorconfig
+e:\Coding\Lectures\Övningsuppgifter\OOP\Arv\obj\Debug\net8.0\Arv.AssemblyInfoInputs.cache
+e:\Coding\Lectures\Övningsuppgifter\OOP\Arv\obj\Debug\net8.0\Arv.AssemblyInfo.cs
+e:\Coding\Lectures\Övningsuppgifter\OOP\Arv\obj\Debug\net8.0\Arv.csproj.CoreCompileInputs.cache
+e:\Coding\Lectures\Övningsuppgifter\OOP\Arv\obj\Debug\net8.0\Arv.sourcelink.json
+e:\Coding\Lectures\Övningsuppgifter\OOP\Arv\obj\Debug\net8.0\Arv.dll
+e:\Coding\Lectures\Övningsuppgifter\OOP\Arv\obj\Debug\net8.0\refint\Arv.dll
+e:\Coding\Lectures\Övningsuppgifter\OOP\Arv\obj\Debug\net8.0\Arv.pdb
+E:\Coding\Lectures\Övningsuppgifter\OOP\Arv\obj\Debug\net8.0\Arv.genruntimeconfig.cache
+E:\Coding\Lectures\Övningsuppgifter\OOP\Arv\obj\Debug\net8.0\ref\Arv.dll
