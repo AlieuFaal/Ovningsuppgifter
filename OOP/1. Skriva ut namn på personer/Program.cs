@@ -1,10 +1,12 @@
-﻿Human human1 = new Human() {firstName = "Alle", lastName = "Falle"};
+﻿Human human3 = new Human() {firstName = "Mariam", lastName = "Moore"};
 
-Human human2 = new Human() {firstName = "Alieu", lastName = "Faal", Mother = "Mariam Moore", Father = "Pa Faal"};
+Human human4 = new Human() {firstName = "Pa", lastName = "Faal"};
 
-Human human3 = new Human() {firstName = "Mariam", lastName = "Moore" };
+Human human1 = new Human() {firstName = "Alle", lastName = "Falle"};
 
-Human human4 = new Human() {firstName = "Pa", lastName = "Faal" };
+Human human2 = new Human() {firstName = "Alieu", lastName = "Faal", Mother = human3, Father = human4};
+
+
 
 
 
@@ -13,8 +15,8 @@ Human human4 = new Human() {firstName = "Pa", lastName = "Faal" };
 // Console.WriteLine(human2.GetFullName());
 // Console.WriteLine(human1.GetFullNameReversed());
 // Console.WriteLine(human2.GetFullNameReversed());
-Console.WriteLine(human2.Mother);
-Console.WriteLine(human2.Father);
+Console.WriteLine(human2.Mother.GetFullName());
+Console.WriteLine(human2.Father.GetFullName());
 Console.WriteLine(human2.GetFullName("Mr."));
 Console.WriteLine(human2.GetParents());
 System.Console.WriteLine(human2.GetSelfAndParents());
@@ -34,9 +36,9 @@ class Human
 
     public string lastName;
 
-    public string Mother;
+    public Human Mother;
 
-    public string Father;
+    public Human Father;
 
     private double length;
 
@@ -86,11 +88,11 @@ class Human
 
     public string GetParents()
     {
-        return $"{Mother}, {Father}";
+        return $"{Mother.GetFullName()}, {Father.GetFullName()}";
     } 
 
     public string GetSelfAndParents()
     {
-        return $"{GetFullName()} - Mamma: {Mother} - Pappa: {Father}";
+        return $"{GetFullName()} - Mamma: {Mother.GetFullName()} - Pappa: {Father.GetFullName()}";
     }
 }      
