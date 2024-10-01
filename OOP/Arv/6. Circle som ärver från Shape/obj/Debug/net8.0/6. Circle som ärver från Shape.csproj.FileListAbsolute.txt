@@ -1,0 +1,15 @@
+e:\Coding\Lectures\Övningsuppgifter\OOP\Arv\6. Circle som ärver från Shape\bin\Debug\net8.0\6. Circle som ärver från Shape.exe
+E:\Coding\Lectures\Övningsuppgifter\OOP\Arv\6. Circle som ärver från Shape\bin\Debug\net8.0\6. Circle som ärver från Shape.deps.json
+E:\Coding\Lectures\Övningsuppgifter\OOP\Arv\6. Circle som ärver från Shape\bin\Debug\net8.0\6. Circle som ärver från Shape.runtimeconfig.json
+e:\Coding\Lectures\Övningsuppgifter\OOP\Arv\6. Circle som ärver från Shape\bin\Debug\net8.0\6. Circle som ärver från Shape.dll
+e:\Coding\Lectures\Övningsuppgifter\OOP\Arv\6. Circle som ärver från Shape\bin\Debug\net8.0\6. Circle som ärver från Shape.pdb
+e:\Coding\Lectures\Övningsuppgifter\OOP\Arv\6. Circle som ärver från Shape\obj\Debug\net8.0\6. Circle som ärver från Shape.GeneratedMSBuildEditorConfig.editorconfig
+e:\Coding\Lectures\Övningsuppgifter\OOP\Arv\6. Circle som ärver från Shape\obj\Debug\net8.0\6. Circle som ärver från Shape.AssemblyInfoInputs.cache
+e:\Coding\Lectures\Övningsuppgifter\OOP\Arv\6. Circle som ärver från Shape\obj\Debug\net8.0\6. Circle som ärver från Shape.AssemblyInfo.cs
+e:\Coding\Lectures\Övningsuppgifter\OOP\Arv\6. Circle som ärver från Shape\obj\Debug\net8.0\6. Circle som ärver från Shape.csproj.CoreCompileInputs.cache
+e:\Coding\Lectures\Övningsuppgifter\OOP\Arv\6. Circle som ärver från Shape\obj\Debug\net8.0\6. Circle som ärver från Shape.sourcelink.json
+e:\Coding\Lectures\Övningsuppgifter\OOP\Arv\6. Circle som ärver från Shape\obj\Debug\net8.0\6. Circle som ärver från Shape.dll
+e:\Coding\Lectures\Övningsuppgifter\OOP\Arv\6. Circle som ärver från Shape\obj\Debug\net8.0\refint\6. Circle som ärver från Shape.dll
+e:\Coding\Lectures\Övningsuppgifter\OOP\Arv\6. Circle som ärver från Shape\obj\Debug\net8.0\6. Circle som ärver från Shape.pdb
+E:\Coding\Lectures\Övningsuppgifter\OOP\Arv\6. Circle som ärver från Shape\obj\Debug\net8.0\6. Circle som ärver från Shape.genruntimeconfig.cache
+E:\Coding\Lectures\Övningsuppgifter\OOP\Arv\6. Circle som ärver från Shape\obj\Debug\net8.0\ref\6. Circle som ärver från Shape.dll

@@ -13,11 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3. Bokstav för bokstav - varannan stjärna")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c83c1fbe1d83c414362bcb82615ac9154bc5acc")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a5059cb7d8fc6e5e7fde53411f95a6a3a7c90c0")]
->>>>>>> 78f2a6a (update)
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c87d62d92909ec2e78f293242572455b20ba60d")]
 [assembly: System.Reflection.AssemblyProductAttribute("3. Bokstav för bokstav - varannan stjärna")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3. Bokstav för bokstav - varannan stjärna")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
