@@ -1,6 +1,12 @@
 ﻿using System.Collections;
 using System.Reflection.Metadata.Ecma335;
 
+using (LevelData.Load("Level1.txt")
+{
+
+}
+
+
 abstract class LevelElement
 {
     public int PositionX { get; set; }
@@ -52,11 +58,11 @@ class LevelData
 {
     private List<LevelElement> elements;
 
-    public char Elements { get; }
+    public List<LevelElement> Elements { get {return elements; }}
 
-    void Load(string filename)
+    public static void Load(string filename)
     {
-        
+        using (FileStream stream = File.OpenRead(filename));
     }
 }
 
