@@ -1,0 +1,15 @@
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 2/bin/Debug/net8.0/Labb 2
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 2/bin/Debug/net8.0/Labb 2.deps.json
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 2/bin/Debug/net8.0/Labb 2.runtimeconfig.json
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 2/bin/Debug/net8.0/Labb 2.dll
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 2/bin/Debug/net8.0/Labb 2.pdb
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 2/obj/Debug/net8.0/Labb 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 2/obj/Debug/net8.0/Labb 2.AssemblyInfoInputs.cache
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 2/obj/Debug/net8.0/Labb 2.AssemblyInfo.cs
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 2/obj/Debug/net8.0/Labb 2.csproj.CoreCompileInputs.cache
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 2/obj/Debug/net8.0/Labb 2.sourcelink.json
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 2/obj/Debug/net8.0/Labb 2.dll
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 2/obj/Debug/net8.0/refint/Labb 2.dll
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 2/obj/Debug/net8.0/Labb 2.pdb
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 2/obj/Debug/net8.0/Labb 2.genruntimeconfig.cache
+/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 2/obj/Debug/net8.0/ref/Labb 2.dll
