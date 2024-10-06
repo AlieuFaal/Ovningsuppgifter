@@ -5,5 +5,5 @@ abstract class Enemy : LevelElement
     public Dice AttackDice { get; set; }
     public Dice DefenceDice { get; set; }
     
-    public abstract void UpdateMethod();
+    public abstract void UpdateMethod(); // Allt fienden gör för varje runda
 }

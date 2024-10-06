@@ -1,13 +1,12 @@
 class LevelData
 {
-    private List<LevelElement> elements = new List<LevelElement>();
+    // public static List<LevelElement> elements = new List<LevelElement>();
 
-    public List<LevelElement> Elements { get {return elements; }}
+    public static List<LevelElement> Elements = new List<LevelElement>(); //{ get {return elements; }}
     
     public static void Load(string filename)
     {        
-        List<LevelElement> elements = new List<LevelElement>();
-
+        Elements = new List<LevelElement>();
 
         using (StreamReader fileReader = new StreamReader(filename))
         {
@@ -15,7 +14,7 @@ class LevelData
             char ratChar = 'r';
             char snakeChar = 's';
             char playerChar = '@';
-
+    
             int y = 0;
             
             while (!fileReader.EndOfStream)
@@ -29,29 +28,31 @@ class LevelData
                     if (c == wallChar)
                     {
                         Wall wall = new Wall() {PositionX = x, PositionY = y};
-                        elements.Add(wall);
+                        Elements.Add(wall);
+                        // System.Console.WriteLine($"Wall created at pos: {x}, {y}");
                     }
                     else if (c == ratChar)
                     {
                         Rat rat = new Rat() {PositionX = x, PositionY = y, EnemyName = "Ratte"};
-                        elements.Add(rat);
+                        Elements.Add(rat);
                     }
                     else if (c == snakeChar)
                     {
                         Snake snake = new Snake() {PositionX = x, PositionY = y, EnemyName = "Ssssnake"};
-                        elements.Add(snake);
+                        Elements.Add(snake);
                     }
                     else if (c == playerChar)
                     {
                         Player player = new Player() {PositionX = x, PositionY = y};
-                        elements.Add(player);
+                        Elements.Add(player);
                     }
                 }   
                         y++;
             }
             
-            foreach (var element in elements)
+            foreach (var element in Elements)
             {
+                // Console.WriteLine($"Loaded element: {element.GetType().Name} at ({element.PositionX}, {element.PositionY})");
                 element.Draw();
             }
         }

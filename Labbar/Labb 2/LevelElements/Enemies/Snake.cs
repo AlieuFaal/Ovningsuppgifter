@@ -1,5 +1,8 @@
 class Snake : Enemy
 {
+    // Player player = new Player();
+    // Snake snake= new Snake() {EnemyName = "Fck off"};
+
     public Snake()
     {
         ClassChar = 's';
@@ -11,6 +14,7 @@ class Snake : Enemy
 
     public override void UpdateMethod()
     {
-
+        // if(player.PositionX is 2 < snake.PositionX)
+        // Draw();
     }
 }

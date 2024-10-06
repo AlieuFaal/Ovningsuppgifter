@@ -1,6 +1,6 @@
 class Player : LevelElement
 {
-    public double PlayerHP { get; set; }
+    public static int PlayerHP { get; set; }
     public Dice AttackDice { get; set; }
     public Dice DefenceDice { get; set; }
     
