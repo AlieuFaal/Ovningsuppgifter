@@ -7,7 +7,9 @@ class GameLoop : LevelElement
     
     public static void RunGame()
     {
-        LevelData.Load(@"E:\Coding\Lectures\Övningsuppgifter\Labbar\Labb 2\LevelData\Level1.txt");
+        Console.CursorVisible = false;
+        Console.Clear();
+        LevelData.Load(@"/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 2/LevelData/Level1.txt");
         player.PositionX = 4;
         player.PositionY = 3;
         
