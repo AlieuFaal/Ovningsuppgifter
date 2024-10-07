@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Coding\\Lectures\\Övningsuppgifter\\Labbar\\Labb 2\\Labb 2.csproj": {}
+    "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 2/Labb 2.csproj": {}
   },
   "projects": {
-    "E:\\Coding\\Lectures\\Övningsuppgifter\\Labbar\\Labb 2\\Labb 2.csproj": {
+    "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 2/Labb 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding\\Lectures\\Övningsuppgifter\\Labbar\\Labb 2\\Labb 2.csproj",
+        "projectUniqueName": "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 2/Labb 2.csproj",
         "projectName": "Labb 2",
-        "projectPath": "E:\\Coding\\Lectures\\Övningsuppgifter\\Labbar\\Labb 2\\Labb 2.csproj",
-        "packagesPath": "C:\\Users\\alidj\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding\\Lectures\\Övningsuppgifter\\Labbar\\Labb 2\\obj\\",
+        "projectPath": "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 2/Labb 2.csproj",
+        "packagesPath": "/Users/alieufaal/.nuget/packages/",
+        "outputPath": "/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alidj\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/alieufaal/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
