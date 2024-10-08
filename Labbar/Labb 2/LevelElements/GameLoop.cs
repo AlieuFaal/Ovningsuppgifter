@@ -1,39 +1,47 @@
 class GameLoop : LevelElement 
 {
-    private static Player player = new Player();
-    private static Snake snake = new Snake(){EnemyName = "Seasnake"};
-    private static Rat rat = new Rat() {EnemyName = "Desertrat"};
+    private static Player player = LevelData.Elements.OfType<Player>().FirstOrDefault();
+
     private static bool isRunning = true;   
     
     public static void RunGame()
     {
         Console.CursorVisible = false;
         Console.Clear();
-        LevelData.Load(@"/Users/alieufaal/Coding/VS Code Projects /Ovningsuppgifter/Labbar/Labb 2/LevelData/Level1.txt");
-        player.PositionX = 4;
-        player.PositionY = 3;
+        LevelData.Load(@"E:\Coding\Lectures\Övningsuppgifter\Labbar\Labb 2\LevelData\Level1.txt");
         
-        while (isRunning == true)
+        while (isRunning == true || Player.PlayerHP >= 0)
         {
-            PlayerInput(); 
-
-            foreach (var element in LevelData.Elements) 
+            Console.SetCursorPosition(0, 0);
+            System.Console.WriteLine($"Health: {Player.PlayerHP} / 100");
+            
+            for(int i = 0; i < 5000; i++)
             {
-                if(element is Enemy enemy) 
+                
+                PlayerInput(); 
+            
+                foreach (var element in LevelData.Elements) 
                 {
-                    Console.SetCursorPosition(enemy.PositionX, enemy.PositionY);
-                    System.Console.Write(" ");
-                    enemy.UpdateMethod();
+                    
+                    if(element is Enemy enemy) 
+                    {
+                        Console.SetCursorPosition(enemy.PositionX, enemy.PositionY);
+                        System.Console.Write(" ");
+                        enemy.UpdateMethod();
+                    }
                 }
+
+                Console.SetCursorPosition(0, 0);
+                System.Console.WriteLine($"\t\t\tTurn: {i}");
             }
         }
     }
 
-    private static bool CollisionDetected(int nextX, int nextY)
+    private static bool CollisionDetected(int nextX, int nextY,Player player1)
     {
         foreach (LevelElement element in LevelData.Elements)
         {
-            if ( element is Wall && element.PositionX == nextX && element.PositionY == nextY)
+            if ( element is Wall or Enemy && element.PositionX == nextX && element.PositionY == nextY)
             {
                 return true;
             }
@@ -43,38 +51,35 @@ class GameLoop : LevelElement
 
     private static void PlayerInput()
     {      
-        ConsoleKeyInfo keyInfo = Console.ReadKey(intercept: true);
-
+        ConsoleKeyInfo KeyInfo = Console.ReadKey(intercept: true);
         Console.SetCursorPosition(player.PositionX, player.PositionY);
         System.Console.Write(" ");
 
-
-
-        switch(keyInfo.Key)
+        switch(KeyInfo.Key)
         {
             case ConsoleKey.W:
-            if (!CollisionDetected(player.PositionX, player.PositionY - 1))
+            if (!CollisionDetected(player.PositionX, player.PositionY - 1, player))
             {
                 player.PositionY--;
             }
             break;
 
             case ConsoleKey.A:
-            if (!CollisionDetected(player.PositionX - 1, player.PositionY))
+            if (!CollisionDetected(player.PositionX - 1, player.PositionY, player))
             {
                 player.PositionX--;
             }
             break;
             
             case ConsoleKey.S:
-            if (!CollisionDetected(player.PositionX, player.PositionY + 1))
+            if (!CollisionDetected(player.PositionX, player.PositionY + 1, player))
             {
                 player.PositionY++;
             }
             break;
             
             case ConsoleKey.D:
-            if (!CollisionDetected(player.PositionX + 1, player.PositionY))
+            if (!CollisionDetected(player.PositionX + 1, player.PositionY, player))
             {
                 player.PositionX++;
             }
@@ -84,6 +89,6 @@ class GameLoop : LevelElement
             isRunning = false;
             break;
         }
-            player.Draw();
+        player.Draw();
     }
 }
