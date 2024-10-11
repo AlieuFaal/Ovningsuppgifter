@@ -1,0 +1,15 @@
+E:\Coding\Lectures\Övningsuppgifter\test\bin\Debug\net8.0\test.exe
+E:\Coding\Lectures\Övningsuppgifter\test\bin\Debug\net8.0\test.deps.json
+E:\Coding\Lectures\Övningsuppgifter\test\bin\Debug\net8.0\test.runtimeconfig.json
+E:\Coding\Lectures\Övningsuppgifter\test\bin\Debug\net8.0\test.dll
+E:\Coding\Lectures\Övningsuppgifter\test\bin\Debug\net8.0\test.pdb
+E:\Coding\Lectures\Övningsuppgifter\test\obj\Debug\net8.0\test.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Lectures\Övningsuppgifter\test\obj\Debug\net8.0\test.AssemblyInfoInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\test\obj\Debug\net8.0\test.AssemblyInfo.cs
+E:\Coding\Lectures\Övningsuppgifter\test\obj\Debug\net8.0\test.csproj.CoreCompileInputs.cache
+E:\Coding\Lectures\Övningsuppgifter\test\obj\Debug\net8.0\test.sourcelink.json
+E:\Coding\Lectures\Övningsuppgifter\test\obj\Debug\net8.0\test.dll
+E:\Coding\Lectures\Övningsuppgifter\test\obj\Debug\net8.0\refint\test.dll
+E:\Coding\Lectures\Övningsuppgifter\test\obj\Debug\net8.0\test.pdb
+E:\Coding\Lectures\Övningsuppgifter\test\obj\Debug\net8.0\test.genruntimeconfig.cache
+E:\Coding\Lectures\Övningsuppgifter\test\obj\Debug\net8.0\ref\test.dll

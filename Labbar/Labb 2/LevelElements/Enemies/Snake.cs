@@ -1,14 +1,16 @@
-using Microsoft.VisualBasic;
-
 class Snake : Enemy
 {
+    Dice _attackDie = new Dice(3,4,2);
+    Dice _defenceDie = new Dice(1,8,5);
+    
     public Snake()
     {
+        EnemyName = "Ssssnake";
         ClassChar = 's';
         CharColor = ConsoleColor.Green;
         EnemyHP = 25;
-        // AttackDice = 3d4+2;
-        // DefenceDice = 1d8+5;
+        AttackDice = _attackDie;
+        DefenceDice = _defenceDie;
     }
 
     public override void UpdateMethod()
@@ -52,7 +54,7 @@ class Snake : Enemy
                 }
             }
         }
-        Draw();
+        this.Draw(player);
     }
 
     private static bool CollisionDetected(int NextX, int NextY, LevelElement movingElement)
@@ -70,5 +72,44 @@ class Snake : Enemy
             }
         }
         return false;
+    }
+
+    public void Attack(Player player)
+    {
+        AttackDice.ThrowDice();
+        System.Console.WriteLine(_attackDie.ToString());
+        int DMG = Dice.Result;
+    }
+
+    public void Defend(int incomingDMG, Player player)
+    {
+        DefenceDice.ThrowDice();
+        System.Console.WriteLine(_defenceDie.ToString());
+        int DEF = Dice.Result; 
+
+        int DmgTaken = incomingDMG - DEF;
+        
+        if (DmgTaken > 0)
+        {
+            this.EnemyHP -= DmgTaken;
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            System.Console.WriteLine($"Enemy took {DmgTaken} damage!");
+            Console.ResetColor();
+
+            if(this.EnemyHP <= 0)
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                System.Console.WriteLine("You've killed an enemy");
+                Console.ResetColor();
+            }
+            else if (this.EnemyHP > 0)
+            {
+                this.Attack(player);
+            }
+            else
+            {
+                System.Console.WriteLine("Enemy blocked your attack!");
+            }
+        }
     }
 }

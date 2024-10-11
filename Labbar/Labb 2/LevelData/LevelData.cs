@@ -1,4 +1,3 @@
-
 class LevelData
 {
     public static List<LevelElement> Elements = new List<LevelElement>(); 
@@ -6,13 +5,13 @@ class LevelData
     public static void Load(string filename)
     {        
         using (StreamReader fileReader = new StreamReader(filename))
-        {
+        {      
             char wallChar = '#';
             char ratChar = 'r';
             char snakeChar = 's';
             char playerChar = '@';
     
-            int y = 3;
+            int y = 6;
             
             while (!fileReader.EndOfStream)
             {                
@@ -44,10 +43,12 @@ class LevelData
                     }
                 }   
                 y++;
-            }
+            }        
+            Player player1 = LevelData.Elements.OfType<Player>().FirstOrDefault();
+
             foreach (var element in Elements)
             {
-                element.Draw();
+                element.Draw(player1);
             }
         }
     }
