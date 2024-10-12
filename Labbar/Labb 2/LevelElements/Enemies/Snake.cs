@@ -1,7 +1,7 @@
 class Snake : Enemy
 {
-    Dice _attackDie = new Dice(3,4,2);
-    Dice _defenceDie = new Dice(1,8,5);
+    public static Dice _attackDie = new Dice(3,4,2);
+    public static Dice _defenceDie = new Dice(1,8,5);
     
     public Snake()
     {
@@ -74,42 +74,53 @@ class Snake : Enemy
         return false;
     }
 
-    public void Attack(Player player)
+    public override void Attack(Player player)
     {
         AttackDice.ThrowDice();
-        System.Console.WriteLine(_attackDie.ToString());
-        int DMG = Dice.Result;
+        System.Console.WriteLine(AttackDice.ToString());
+        int ATK = AttackDice.Result;
+        player.Defend(ATK);  
     }
 
-    public void Defend(int incomingDMG, Player player)
+    public override bool Defend(int incomingDmg, Player player)
     {
         DefenceDice.ThrowDice();
-        System.Console.WriteLine(_defenceDie.ToString());
-        int DEF = Dice.Result; 
+        System.Console.WriteLine(DefenceDice.ToString());
+        int DEF = DefenceDice.Result; 
 
-        int DmgTaken = incomingDMG - DEF;
-        
+        int DmgTaken = incomingDmg - DEF;
+
         if (DmgTaken > 0)
         {
             this.EnemyHP -= DmgTaken;
+
+            Console.SetCursorPosition(0, 3);
             Console.ForegroundColor = ConsoleColor.DarkYellow;
-            System.Console.WriteLine($"Enemy took {DmgTaken} damage!");
+            System.Console.WriteLine($"Snake took {DmgTaken} damage! The Snake has {this.EnemyHP} HP left.");
             Console.ResetColor();
 
-            if(this.EnemyHP <= 0)
+            if (this.EnemyHP <= 0)
             {
-                Console.ForegroundColor = ConsoleColor.Red;
-                System.Console.WriteLine("You've killed an enemy");
+                Console.SetCursorPosition(0, 4);
+                Console.ForegroundColor = ConsoleColor.Magenta;
+                string MyString = "A Snake has been defeated!";
+                System.Console.WriteLine(MyString.PadLeft(1, ' '));
                 Console.ResetColor();
-            }
-            else if (this.EnemyHP > 0)
-            {
-                this.Attack(player);
+                MarkForRemoval = true;
+                return true;
             }
             else
             {
-                System.Console.WriteLine("Enemy blocked your attack!");
+                MarkForRemoval = false;
+                this.Attack(player);
+                return false;
             }
+        }
+        else
+        {
+            Console.SetCursorPosition(0, 5);
+            System.Console.WriteLine("The Snake blocked your attack!");
+            return false;
         }
     }
 }

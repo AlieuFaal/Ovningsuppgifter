@@ -14,6 +14,56 @@ class Rat : Enemy
         AttackDice = _attackDie;
         DefenceDice = _defenceDie;
     }
+    
+    public override void Attack(Player player)
+    {
+        AttackDice.ThrowDice();
+        System.Console.WriteLine(AttackDice.ToString());
+        int Damage = AttackDice.Result;
+        player.Defend(Damage);  
+    }
+
+    public override bool Defend(int incomingDmg, Player player)
+    {
+        DefenceDice.ThrowDice();
+        System.Console.WriteLine(DefenceDice.ToString());
+        int Defence = DefenceDice.Result; 
+
+        int DmgTaken = incomingDmg - Defence;
+
+        if (DmgTaken > 0)
+        {
+            this.EnemyHP -= DmgTaken;
+
+            Console.SetCursorPosition(0, 3);
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            System.Console.WriteLine($"The Rat took {DmgTaken} damage! The Rat has {this.EnemyHP} HP left.");
+            Console.ResetColor();
+
+            if (this.EnemyHP <= 0)
+            {
+                Console.SetCursorPosition(0, 4);
+                Console.ForegroundColor = ConsoleColor.Red;
+                string MyString = "A Rat has been defeated!";
+                System.Console.WriteLine(MyString.PadLeft(5, ' '));
+                Console.ResetColor();
+                MarkForRemoval = true;
+                return true;
+            }
+            else
+            {
+                MarkForRemoval = false;
+                this.Attack(player);
+                return false;
+            }
+        }
+        else
+        {
+            Console.SetCursorPosition(0, 5);
+            System.Console.WriteLine("The Rat blocked your attack!");
+            return false; 
+        }
+    }
 
     public override void UpdateMethod()
     {       
@@ -94,51 +144,4 @@ class Rat : Enemy
         }
         return false;
     }
-
-    public void Attack(Player player)
-    {
-        AttackDice.ThrowDice();
-        System.Console.WriteLine(_attackDie.ToString());
-        int DMG = Dice.Result;
-        player.Defend(DMG);
-    }
-
-    public bool Defend(int incomingDMG, Player player)
-{
-    DefenceDice.ThrowDice();
-    System.Console.WriteLine(_defenceDie.ToString());
-    int DEF = Dice.Result; 
-
-    int DmgTaken = incomingDMG - DEF;
-
-    if (DmgTaken > 0)
-    {
-        this.EnemyHP -= DmgTaken;
-
-        Console.SetCursorPosition(0, 4);
-        Console.ForegroundColor = ConsoleColor.DarkYellow;
-        // System.Console.WriteLine($"Enemy took {DmgTaken} damage! Enemy has {this.EnemyHP} HP left.");
-        Console.ResetColor();
-
-        if (this.EnemyHP <= 0)
-        {
-            MarkForRemoval = true;
-            Console.SetCursorPosition(0, 4);
-            Console.ForegroundColor = ConsoleColor.Red;
-            System.Console.WriteLine($"{this.EnemyName} has been defeated!");
-            Console.ResetColor();
-            return true; // Enemy should be removed
-        }
-        else
-        {
-            this.Attack(player);
-            return false; // Enemy is still alive
-        }
-    }
-    else
-    {
-        System.Console.WriteLine("Enemy blocked your attack!");
-        return false; // Enemy is still alive, no damage taken
-    }
-}
 }

@@ -11,7 +11,7 @@ class LevelData
             char snakeChar = 's';
             char playerChar = '@';
     
-            int y = 6;
+            int y = 8;
             
             while (!fileReader.EndOfStream)
             {                

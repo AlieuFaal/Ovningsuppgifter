@@ -1,38 +1,34 @@
 class GameLoop : LevelElement 
 {
     private static Player player = LevelData.Elements.OfType<Player>().FirstOrDefault();
+    private static bool isGameOver = false;   
 
-    private static bool isRunning = true;   
-    
     public static void RunGame()
     {
         Console.CursorVisible = false;
         Console.Clear();
         LevelData.Load(@"E:\Coding\Lectures\Övningsuppgifter\Labbar\Labb 2\LevelData\Level1.txt");
 
-        while (isRunning == true || Player.PlayerHP > 0)
-        {
-            Console.SetCursorPosition(0, 0);
-            System.Console.WriteLine($"Health: {Player.PlayerHP} / 100");
-
-            player.Draw(player);
-            
-            for(int i = 0; i < 5000; i++)
+        while (!isGameOver)
+        {            
+            for(int i = 0; i < 10000; i++)
             {
-                PlayerInput(); 
+                Console.SetCursorPosition(0, 0);
+                string MyString = $"Health: {Player.PlayerHP} / 100";
+                System.Console.WriteLine(MyString.PadLeft(1, ' '));
                 
-                foreach (var element in LevelData.Elements) 
+                PlayerTurn();
+
+                if (isGameOver) break;
+                
+                EnemiesTurn();
+
+                if (Player.PlayerHP <= 0)
                 {
-                    element.Draw(player);
-
-                    if(element is Enemy enemy) 
-                    {
-                        Console.SetCursorPosition(enemy.PositionX, enemy.PositionY);
-                        System.Console.Write(" ");
-                        enemy.UpdateMethod();
-                    }
+                    isGameOver = true;
+                    // Console.WriteLine("Game Over!");
                 }
-
+                
                 LevelData.Elements.RemoveAll(element => element is Enemy enemy && enemy.MarkForRemoval);
 
                 Console.SetCursorPosition(0, 0);
@@ -41,7 +37,7 @@ class GameLoop : LevelElement
         }
     }
     
-    private static bool CollisionDetected(int nextX, int nextY,Player player1)
+    private static bool CollisionDetected(int nextX, int nextY, Player player)
     {
         foreach (LevelElement element in LevelData.Elements)
         {
@@ -53,9 +49,9 @@ class GameLoop : LevelElement
         return false;
     }
 
-    private static bool IsAdjacent(int x1, int y1, int x2, int y2)
+    private static bool IsAdjacent(int PosX1, int PosY1, int PosX2, int PosY2)
     {
-        return (Math.Abs(x1 - x2) <= 1 && Math.Abs(y1 - y2) <= 1 );
+        return (Math.Abs(PosX1 - PosX2) <= 1 && Math.Abs(PosY1 - PosY2) <= 1 );
     }
 
     private static void FightCollision(Player player, Enemy enemy)
@@ -64,18 +60,38 @@ class GameLoop : LevelElement
         {
             player.Attack(enemy);
 
-            if (enemy.EnemyHP > 0 && enemy is Rat rat)
+            if (enemy.EnemyHP > 0)
             {
-                rat.Attack(player);
+                enemy.Attack(player);
             }
-           else if (enemy.EnemyHP > 0 && enemy is Snake snake)
+            else
             {
-                snake.Attack(player);
+                enemy.MarkForRemoval = true;
             }
         }
-        if (enemy.EnemyHP <= 0)
+    }
+
+    private static void PlayerTurn()
+    {
+        PlayerInput();
+        PlayerActions();
+    }
+
+    private static void EnemiesTurn()
+    {
+        foreach (var element in LevelData.Elements)
+        
         {
-            enemy.MarkForRemoval = true;
+            element.Draw(player);
+
+            if(element is Enemy enemy) 
+            {
+                Console.SetCursorPosition(enemy.PositionX, enemy.PositionY);
+                System.Console.Write(" ");
+                enemy.UpdateMethod();
+                EnemyActions(enemy); 
+            }
+            
         }
     }
 
@@ -116,7 +132,7 @@ class GameLoop : LevelElement
             break;
 
             case ConsoleKey.Escape:
-            isRunning = false;
+            isGameOver = true;
             break;
         }
         
@@ -124,10 +140,35 @@ class GameLoop : LevelElement
         {
             if (element is Enemy enemy && IsAdjacent(player.PositionX, player.PositionY, enemy.PositionX, enemy.PositionY))
             {
-                // System.Console.WriteLine("Player is adjacent to an enemy");
                 FightCollision(player, enemy);
                 break;
             }
+        }
+    }
+
+    private static void PlayerActions()
+    {
+        foreach (LevelElement element in LevelData.Elements)
+        {
+            if (element is Player player && element is Enemy enemy)
+            {
+                if (IsAdjacent(player.PositionX,player.PositionY, enemy.PositionX,enemy.PositionY))
+                {
+                    player.Attack(enemy);
+                    if (enemy.EnemyHP > 0)
+                    {
+                        enemy.Attack(player);
+                    }
+                }
+            }
+        }
+    }
+
+    private static void EnemyActions(Enemy enemy)
+    {
+        if (IsAdjacent(enemy.PositionX,enemy.PositionY, player.PositionX,player.PositionY))
+        {
+            enemy.Attack(player);
         }
     }
 }

@@ -6,7 +6,7 @@ abstract class LevelElement
     public char ClassChar { get; set; }
     public ConsoleColor CharColor;
     
-    public virtual void Draw (Player player)
+    public void Draw (Player player)
     {   
         if (IsWithinVisionRange())
         {
