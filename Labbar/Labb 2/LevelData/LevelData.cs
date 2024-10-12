@@ -2,7 +2,7 @@ class LevelData
 {
     public static List<LevelElement> Elements = new List<LevelElement>(); 
     
-    public static void Load(string filename)
+    public static void Load(string filename)                    
     {        
         using (StreamReader fileReader = new StreamReader(filename))
         {      

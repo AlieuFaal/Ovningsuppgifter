@@ -77,7 +77,12 @@ class Snake : Enemy
     public override void Attack(Player player)
     {
         AttackDice.ThrowDice();
-        System.Console.WriteLine(AttackDice.ToString());
+        Console.SetCursorPosition(100,0);
+        System.Console.Write("Snakes' Dice:");
+        Console.SetCursorPosition(100,2);
+        System.Console.Write(AttackDice.ToString());
+        Console.SetCursorPosition(95,2);
+        System.Console.Write("ATK:");
         int ATK = AttackDice.Result;
         player.Defend(ATK);  
     }
@@ -85,7 +90,10 @@ class Snake : Enemy
     public override bool Defend(int incomingDmg, Player player)
     {
         DefenceDice.ThrowDice();
-        System.Console.WriteLine(DefenceDice.ToString());
+        Console.SetCursorPosition(100, 3);
+        System.Console.Write(DefenceDice.ToString());
+        Console.SetCursorPosition(95,3);
+        System.Console.Write("DEF:");
         int DEF = DefenceDice.Result; 
 
         int DmgTaken = incomingDmg - DEF;
@@ -94,17 +102,16 @@ class Snake : Enemy
         {
             this.EnemyHP -= DmgTaken;
 
-            Console.SetCursorPosition(0, 3);
+            Console.SetCursorPosition(65, 15);
             Console.ForegroundColor = ConsoleColor.DarkYellow;
-            System.Console.WriteLine($"Snake took {DmgTaken} damage! The Snake has {this.EnemyHP} HP left.");
+            System.Console.Write($"Snake took {DmgTaken} damage! The Snake has {this.EnemyHP} HP left.");
             Console.ResetColor();
 
             if (this.EnemyHP <= 0)
             {
-                Console.SetCursorPosition(0, 4);
+                Console.SetCursorPosition(65, 17);
                 Console.ForegroundColor = ConsoleColor.Magenta;
-                string MyString = "A Snake has been defeated!";
-                System.Console.WriteLine(MyString.PadLeft(1, ' '));
+                System.Console.WriteLine("A Snake has been defeated!");;
                 Console.ResetColor();
                 MarkForRemoval = true;
                 return true;
@@ -118,8 +125,8 @@ class Snake : Enemy
         }
         else
         {
-            Console.SetCursorPosition(0, 5);
-            System.Console.WriteLine("The Snake blocked your attack!");
+            Console.SetCursorPosition(65, 16);
+            System.Console.Write("The Snake blocked your attack!");
             return false;
         }
     }

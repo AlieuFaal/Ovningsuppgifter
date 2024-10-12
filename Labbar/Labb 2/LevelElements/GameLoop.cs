@@ -11,11 +11,11 @@ class GameLoop : LevelElement
 
         while (!isGameOver)
         {            
+            
             for(int i = 0; i < 10000; i++)
             {
                 Console.SetCursorPosition(0, 0);
-                string MyString = $"Health: {Player.PlayerHP} / 100";
-                System.Console.WriteLine(MyString.PadLeft(1, ' '));
+                System.Console.WriteLine($"Health: {Player.PlayerHP} / 1000 ");
                 
                 PlayerTurn();
 
@@ -25,14 +25,14 @@ class GameLoop : LevelElement
 
                 if (Player.PlayerHP <= 0)
                 {
-                    isGameOver = true;
                     // Console.WriteLine("Game Over!");
+                    isGameOver = true;
                 }
                 
                 LevelData.Elements.RemoveAll(element => element is Enemy enemy && enemy.MarkForRemoval);
 
-                Console.SetCursorPosition(0, 0);
-                System.Console.WriteLine($"\t\t\tTurn: {i}");
+                Console.SetCursorPosition(25, 0);
+                System.Console.WriteLine($"Turn: {i}");
             }
         }
     }

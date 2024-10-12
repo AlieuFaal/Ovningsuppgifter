@@ -19,7 +19,8 @@ class Dice
         
         for (int i = 0; i < NumberOfDice; i++)
         {
-            Result += random.Next(1, SidesPerDice + 1);
+            int roll = random.Next(1, SidesPerDice + 1);
+            Result += roll;
         }
         
         Result += Modifier;
@@ -29,7 +30,6 @@ class Dice
 
     public override string ToString()
     {
-        Console.SetCursorPosition(0, 6);
         return $"Rolled {NumberOfDice}d{SidesPerDice}+{Modifier} = {Result}"; 
     }
 }

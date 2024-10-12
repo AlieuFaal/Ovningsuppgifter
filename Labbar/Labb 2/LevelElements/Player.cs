@@ -13,42 +13,44 @@ class Player : LevelElement
     {
         ClassChar = '@'; 
         CharColor = ConsoleColor.White;
-        PlayerHP = 1000;
+        PlayerHP = 1000; // Mer HP för testing purposes...
         AttackDice = _attackDie;
         DefenceDice = _defenceDie;
-    }
-    
-    private static void DisplayMessage(string message)
-    {
-        Console.SetCursorPosition(0, 2);
-        Console.Write(new string(' ', Console.WindowWidth));
-        Console.SetCursorPosition(0, 2);
-        Console.Write(message);
     }
 
     public void Attack(Enemy enemy)
     {
         AttackDice.ThrowDice();
-        System.Console.WriteLine(_attackDie.ToString());
-        int Damage = AttackDice.Result;
+        Console.SetCursorPosition(40,0);
+        System.Console.Write("Player Dice:");
+        Console.SetCursorPosition(40,2);
+        System.Console.Write(AttackDice.ToString());
+        Console.SetCursorPosition(35,2);
+        System.Console.Write("ATK:");
+        int ATK = AttackDice.Result;
 
-        enemy.Defend(Damage,this);
+        enemy.Defend(ATK,this);
         
-        DisplayMessage($"You attacked {Enemy.EnemyName} for {Damage} damage!");
+        Console.SetCursorPosition(65, 8);
+        Console.Write($"You attacked {enemy.EnemyName} for {ATK} damage!");
     }
 
     public void Defend(int IncomingDmg)
     {
         DefenceDice.ThrowDice();
-        System.Console.WriteLine(_defenceDie.ToString());
-        int Defence = DefenceDice.Result; 
+        Console.SetCursorPosition(40, 3);
+        System.Console.Write(DefenceDice.ToString());
+        Console.SetCursorPosition(35,3);
+        System.Console.Write("DEF:");
+        int DEF = DefenceDice.Result; 
 
-        int DmgTaken = IncomingDmg - Defence;
+        int DmgTaken = IncomingDmg - DEF;
         
         if (DmgTaken > 0)
         {
             PlayerHP -= DmgTaken;
         }
-        DisplayMessage($"You defended against {IncomingDmg} damage. You took {DmgTaken} damage!");
+        Console.SetCursorPosition(65, 9);
+        Console.Write($"You defended against {IncomingDmg} damage. You took {DmgTaken} damage!");
     }
 }

@@ -1,6 +1,6 @@
 abstract class Enemy : LevelElement
 {
-    public static string EnemyName { get; set; }
+    public string EnemyName { get; set; }
     public int EnemyHP { get; set; }
     public Dice AttackDice { get; set; }
     public Dice DefenceDice { get; set; }

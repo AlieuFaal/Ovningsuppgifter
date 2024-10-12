@@ -10,7 +10,7 @@ class Rat : Enemy
         EnemyName = "Ratte";
         ClassChar = 'r';
         CharColor = ConsoleColor.Red;
-        EnemyHP = 10;
+        EnemyHP = 100; // Mer HP för testing purposes...
         AttackDice = _attackDie;
         DefenceDice = _defenceDie;
     }
@@ -18,34 +18,41 @@ class Rat : Enemy
     public override void Attack(Player player)
     {
         AttackDice.ThrowDice();
-        System.Console.WriteLine(AttackDice.ToString());
-        int Damage = AttackDice.Result;
-        player.Defend(Damage);  
+        Console.SetCursorPosition(70,0);
+        System.Console.Write("Rat's Dice:");
+        Console.SetCursorPosition(70,2);
+        System.Console.Write(AttackDice.ToString());
+        Console.SetCursorPosition(65,2);
+        System.Console.Write("ATK:");
+        int ATK = AttackDice.Result;
+        player.Defend(ATK);  
     }
 
     public override bool Defend(int incomingDmg, Player player)
     {
         DefenceDice.ThrowDice();
-        System.Console.WriteLine(DefenceDice.ToString());
-        int Defence = DefenceDice.Result; 
+        Console.SetCursorPosition(70, 3);
+        System.Console.Write(DefenceDice.ToString());
+        Console.SetCursorPosition(65,3);
+        System.Console.Write("DEF:");
+        int DEF = DefenceDice.Result; 
 
-        int DmgTaken = incomingDmg - Defence;
+        int DmgTaken = incomingDmg - DEF;
 
         if (DmgTaken > 0)
         {
             this.EnemyHP -= DmgTaken;
 
-            Console.SetCursorPosition(0, 3);
+            Console.SetCursorPosition(65, 11);
             Console.ForegroundColor = ConsoleColor.DarkYellow;
-            System.Console.WriteLine($"The Rat took {DmgTaken} damage! The Rat has {this.EnemyHP} HP left.");
+            System.Console.Write($"The Rat took {DmgTaken} damage! The Rat has {this.EnemyHP} HP left.");
             Console.ResetColor();
 
             if (this.EnemyHP <= 0)
             {
-                Console.SetCursorPosition(0, 4);
+                Console.SetCursorPosition(65, 13);
                 Console.ForegroundColor = ConsoleColor.Red;
-                string MyString = "A Rat has been defeated!";
-                System.Console.WriteLine(MyString.PadLeft(5, ' '));
+                Console.Write("A Rat has been defeated!");
                 Console.ResetColor();
                 MarkForRemoval = true;
                 return true;
@@ -59,8 +66,8 @@ class Rat : Enemy
         }
         else
         {
-            Console.SetCursorPosition(0, 5);
-            System.Console.WriteLine("The Rat blocked your attack!");
+            Console.SetCursorPosition(65, 12);
+            System.Console.Write("The Rat blocked your attack!");
             return false; 
         }
     }
