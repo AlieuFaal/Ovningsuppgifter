@@ -3,7 +3,7 @@ class Dice
     private int NumberOfDice { get; set; }
     private int SidesPerDice { get; set; }
     private int Modifier { get; set; }
-    public  int Result;
+    public  int Result { get; set; }
     static Random random = new Random();
 
     public Dice (int _numberOfDice, int _sidesPerDice, int _modifier)
@@ -30,6 +30,6 @@ class Dice
 
     public override string ToString()
     {
-        return $"Rolled {NumberOfDice}d{SidesPerDice}+{Modifier} = {Result}"; 
+        return $"Rolled {NumberOfDice}d{SidesPerDice}+{Modifier} = {Result}".PadRight(25);
     }
 }

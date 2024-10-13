@@ -1,7 +1,7 @@
 class Snake : Enemy
 {
-    public static Dice _attackDie = new Dice(3,4,2);
-    public static Dice _defenceDie = new Dice(1,8,5);
+    Dice _attackDie = new Dice(3,4,2);
+    Dice _defenceDie = new Dice(1,8,5);
     
     public Snake()
     {

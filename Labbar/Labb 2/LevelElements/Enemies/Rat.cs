@@ -10,7 +10,7 @@ class Rat : Enemy
         EnemyName = "Ratte";
         ClassChar = 'r';
         CharColor = ConsoleColor.Red;
-        EnemyHP = 100; // Mer HP för testing purposes...
+        EnemyHP = 50; // Mer HP för testing purposes...
         AttackDice = _attackDie;
         DefenceDice = _defenceDie;
     }
@@ -109,30 +109,7 @@ class Rat : Enemy
             this.PositionX = PreviousX;
             this.PositionY = PreviousY;  
         }
-
-        if (player != null && this.PositionX == player.PositionX && this.PositionY == player.PositionY )
-        {
-            FightCollision(player,this);
-        }
-        
         this.Draw(player);
-    }
-    
-    private static void FightCollision(Player player, Enemy enemy)
-    {
-        if (player.PositionX == enemy.PositionX && player.PositionY == enemy.PositionY)
-        {
-            player.Attack(enemy);
-
-            if (enemy.EnemyHP > 0 && enemy is Rat rat)
-            {
-                rat.Attack(player);
-            }
-            if (enemy.EnemyHP > 0 && enemy is Snake snake)
-            {
-                snake.Attack(player);
-            }
-        }
     }
 
     private static bool CollisionDetected(int nextX, int nextY, LevelElement movingElement)
